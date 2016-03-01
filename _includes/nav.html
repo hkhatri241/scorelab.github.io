@@ -14,10 +14,12 @@
       <ul class="nav navbar-nav">
         <li {% if page.shortTitle == "Blog" %}class="active"{% endif %}><a href="{{"/blog/" | prepend: site.baseurl }}">Blog</a></li>
         <li {% if page.shortTitle == "Projects" %}class="active"{% endif %}><a href="{{"/projects/" | prepend: site.baseurl }}">Projects</a></li>
+        <li {% if page.shortTitle == "Team" %}class="active"{% endif %}><a href="{{"/team/" | prepend: site.baseurl }}">Team</a></li>
         <li {% if page.shortTitle == "Publications" %}class="active"{% endif %}><a href="{{"/publications/" | prepend: site.baseurl }}">Publications</a></li>
         <li {% if page.shortTitle == "About" %}class="active"{% endif %}><a href="{{"/about/" | prepend: site.baseurl }}">About Us</a></li>
         <li {% if page.shortTitle == "Contact" %}class="active"{% endif %}><a href="{{"/contact/" | prepend: site.baseurl }}">Contact</a></li>
         <li {% if page.shortTitle == "GSoC-2016" %}class="active"{% endif %}><a href="{{"/gsoc-2016/" | prepend: site.baseurl }}">GSoC 2016</a></li>
+        <li><a href="https://github.com/scorelab">Github</a></li>
       </ul>
     </div><!--/.nav-collapse -->
   </div>
