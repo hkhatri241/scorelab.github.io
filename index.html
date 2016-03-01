@@ -1,162 +1,54 @@
 ---
-title: Linear
-layout: default
+layout: index
+title: Home
+permalink: /
+carousel:
+- single01.jpg
+- single02.jpg
+- single03.jpg
 ---
-<head>  
-<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
-<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap-theme.min.css">
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
-<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
-<style type="text/css">
 
-
-.carousel{
-    background: #2f4357;
-    margin-top: 20px;
-}
-.carousel .item img{
-    margin: 0 auto; /* Align slide image horizontally center */
-}
-.bs-example{
-	margin: 20px;
-}
-</style>
-</head>
-
-<body>
-<div class="bs-example">
-    <div id="myCarousel" class="carousel slide" data-ride="carousel">
-        <!-- Carousel indicators -->
-        <ol class="carousel-indicators">
-            <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
-            <li data-target="#myCarousel" data-slide-to="1"></li>
-            <li data-target="#myCarousel" data-slide-to="2"></li>
-        </ol>   
-        <!-- Wrapper for carousel items -->
-       
- <div class="carousel-inner">
-
-            <div class="item active">
-                <img src="{{ site.url }}/assets/images/covers/cover.jpg" alt="SCoRe Labs">
+<div id="service" style="margin-top:50px">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-4" style="text-align:justify">
+                <p>The Sustainable Computing Research Group (SCoRe) at UCSC has conducted research covering various aspects of wireless sensor networks, embeded systems, digital forensic, information security, mobile applications and e-learning. The goal of our research is to generate computing solutions through identifying low cost methodologies and strategies that lead to sustainability.</p>
+                <p><br/><a href="/blog/score-group" class="btn btn-theme">Read More</a></p>
             </div>
-
-            <div class="item">
-                <img src="{{ site.url }}/assets/images/covers/pokurupc.jpg" alt="Pokuru PC">
-            </div>
-
-            <div class="item">
-                <img src="{{ site.url }}/assets/images/covers/fit4d.jpg" alt="Fit4d">
+            <div class="col-md-8" style="text-align:justify">
+                <img class="img-responsive" src="{{ "/assets/img/score-img-1.png" | prepend: site.baseurl }}" alt="">
             </div>
         </div>
-
-
-        <!-- Carousel controls -->
-
-        <a class="carousel-control left" href="#myCarousel" data-slide="prev">
-            <span class="glyphicon glyphicon-chevron-left"></span>
-        </a>
-
-        <a class="carousel-control right" href="#myCarousel" data-slide="next">
-            <span class="glyphicon glyphicon-chevron-right"></span>
-        </a>
-    </div>
-</div>
-	<!-- Logo -->
-	
-	<!-- <h1 id="main-title"><a href="#">Sustainable Computing Research Group | SCoRe</a></h1> -->
-<!-- Featured -->
-<div id="featured">
-	<div class="container">
-		<!-- 		<header>
-		<h2></h2>
-	</header> -->
-	<div class="row">
-		<section class="6u" style="text-align:justify">
-			<p style="color:#000; ">The Sustainable Computing Research Group (SCoRe) at UCSC has conducted research covering various aspects of wireless sensor networks,
-				embeded systems, digital forensic, information security, mobile applications and e-learning. The goal of our research is to generate
-				computing solutions through identifying low cost methodologies and strategies that lead to sustainability. <a href="http://www.scorelab.org/2015/08/20/more-on-score.html">Read more</a></p>
-			</section>
-			<section class="6u"><img src="{{ site.url }}/assets/images/score-img-1.png" style="width:100%"/></section>
-		</div>
-
-		<div class="row">
-			<section class="6u">
-
-				<div class="card">
-					<img src="{{ site.url }}/assets/images/codein.png"  class="image full"  style="margin-bottom:0px">
-					<div class="card-body" style="padding:5px;">
-						<p style="font-weight:bold; color:#000">Read more on <a href="">Google Code-in 2015	</a></p>
-					</div>
-
-				</div>
-			</section>
-			<section class="6u">
-				<div class="card">
-					<img src="{{ site.url }}/assets/images/gsoc.jpg" alt=""  class="image full"  style="margin-bottom:0px">
-					<div class="card-body" style="padding:5px;">
-						<p style="font-weight:bold; color:#000">Read more on  <a href="{{ site.url }}/gsoc2016.html">Google Summer of code 2016</a></p>
-					</div>
-				</div>
-			</section>
-		</div>
-
-	</div>
-</div>
-
-<!-- Main -->
-<!-- <div id="main">
-<div id="content" class="container">
-
-<div class="row">
-<section class="6u">
-<a href="#" class="image full"><img src="/assets/images/pic01.jpg" alt=""></a>
-<header>
-<h2>Mauris vulputate dolor</h2>
-</header>
-<p>In posuere eleifend odio. Quisque semper augue mattis wisi. Maecenas ligula. Pellentesque viverra vulputate enim. Aliquam erat volutpat. Donec leo, vivamus fermentum nibh in augue praesent a lacus at urna congue rutrum.</p>
-</section>
-<section class="6u">
-<a href="#" class="image full"><img src="/assets/images/pic02.jpg" alt=""></a>
-<header>
-<h2>Mauris vulputate dolor</h2>
-</header>
-<p>In posuere eleifend odio. Quisque semper augue mattis wisi. Maecenas ligula. Pellentesque viverra vulputate enim. Aliquam erat volutpat. Donec leo, vivamus fermentum nibh in augue praesent a lacus at urna congue rutrum.</p>
-</section>
-</div> -->
-
-<!-- <div class="row">
-<section class="6u">
-<a href="#" class="image full"><img src="/assets/images/pic03.jpg" alt=""></a>
-<header>
-<h2>Mauris vulputate dolor</h2>
-</header>
-<p>In posuere eleifend odio. Quisque semper augue mattis wisi. Maecenas ligula. Pellentesque viverra vulputate enim. Aliquam erat volutpat. Donec leo, vivamus fermentum nibh in augue praesent a lacus at urna congue rutrum.</p>
-</section>
-<section class="6u">
-<a href="#" class="image full"><img src="/assets/images/pic04.jpg" alt=""></a>
-<header>
-<h2>Mauris vulputate dolor</h2>
-</header>
-<p>In posuere eleifend odio. Quisque semper augue mattis wisi. Maecenas ligula. Pellentesque viverra vulputate enim. Aliquam erat volutpat. Donec leo, vivamus fermentum nibh in augue praesent a lacus at urna congue rutrum.</p>
-</section>
-</div>
-
-</div>
-</div> -->
+    </div><!--/container -->
+</div><!--/service -->
 
 
 
-<!-- Footer -->
-<div class="container" style="border-top:1px solid #efefef">
-	<section>
-		<!-- <header>
-		<h2>Get in touch</h2>
-		<span class="byline">Integer sit amet pede vel arcu aliquet pretium</span>
-	</header> -->
-	<ul class="contact" style="text-align:center; padding-bottom:2em">
-    		<li><a href="https://twitter.com/scoreucsc" class="fa fa-twitter"><span>Twitter</span></a></li>
-		<li class="active"><a href="https://www.facebook.com/SCoRe.UCSC/info?tab=page_info" class="fa fa-facebook"><span>Facebook</span></a></li>
-		<li><a href="https://plus.google.com/108570130242535015491" class="fa fa-google-plus"><span>Google+</span></a></li>
-	</ul>
-</section>
-</div>
+
+<div class="container mtb">
+    <div class="row">
+
+
+        <div class="col-lg-6">
+          <h4>Recent Posts</h4>
+          <div class="hline"></div>
+              <ul class="popular-posts">
+                  {% for post in site.categories['blog'] limit:4 %}
+                      <li>
+                          <a href="{{ post.url  | prepend: site.baseurl }}"><img src="{{ "/assets/img/blog/thumbs/" | prepend: site.baseurl }}{{ post.thumb }}" alt="Popular Post"></a>
+                          <p><a href="{{ post.url }}">{{ post.title }}</a></p>
+                      <em>Posted on {{ post.date | date_to_string }}</em>
+                  </li>
+                  {% endfor %}
+              </ul>
+        </div>
+
+        <div class="col-lg-6">
+            <h4>Frequently Asked</h4>
+            <div class="hline"></div>
+            {% for post in site.categories['question'] %}
+                <p><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></p>
+            {% endfor %}
+        </div>
+    </div><!--/row -->
+</div><!--/container -->

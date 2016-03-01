@@ -1,17 +1,31 @@
 ---
 layout: default
 ---
-<!-- Main -->
-	<div id="main">
-		<div id="content" class="container">
-			<div class="row">
-				<section class="12u">
-					<header>
-						<h2>{{ page.title }}</h2>
-					</header>
-					<p class="posted">Posted on {{ page.date | date: '%B %d, %Y' }}</p>
-					{{ content }}
-				</section>
-			</div>
-		</div>
-	</div>
+
+{% include wrap.html %}
+
+<div class="container mtb">
+    <div class="row">
+        <! -- SINGLE POST -->
+        <div class="col-lg-8" style="text-align:justify">
+            <! -- Blog Post  -->
+            <p><img class="img-responsive" src="{{ "/assets/img/blog/" | prepend: site.baseurl }}{{ page.img }}"></p>
+            <a href="{{ page.url | prepend: site.baseurl }}"><h3 class="ctitle">{{ page.title }}</h3></a>
+            <p><csmall>{{ page.date | date: "%b %-d, %Y" }}. | By: {{ page.author }}</csmall></p>
+
+            {{ content }}
+
+            <div class="spacing"></div>
+            <!-- <h6>SHARE:</h6>
+            <p class="share">
+                <a href="#"><i class="fa fa-twitter"></i></a>
+                <a href="#"><i class="fa fa-facebook"></i></a>
+                <a href="#"><i class="fa fa-tumblr"></i></a>
+                <a href="#"><i class="fa fa-google-plus"></i></a>
+            </p> -->
+        </div><! --/col-lg-8 -->
+
+        {% include sidebar.html %}
+
+    </div><! --/row -->
+</div><! --/container -->
