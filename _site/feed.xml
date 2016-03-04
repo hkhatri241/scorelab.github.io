@@ -3,11 +3,50 @@
   <channel>
     <title>SCoRe Lab</title>
     <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Tue, 01 Mar 2016 17:43:50 +0530</pubDate>
-    <lastBuildDate>Tue, 01 Mar 2016 17:43:50 +0530</lastBuildDate>
+    <link>http://yourdomain.com/</link>
+    <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Thu, 03 Mar 2016 18:53:10 +0530</pubDate>
+    <lastBuildDate>Thu, 03 Mar 2016 18:53:10 +0530</lastBuildDate>
     <generator>Jekyll v3.1.2</generator>
+    
+      <item>
+        <title>Gsoc2016: Forensics Timeline Module for OpenDF</title>
+        <description>
+</description>
+        <pubDate>Thu, 03 Mar 2016 00:00:00 +0530</pubDate>
+        <link>http://yourdomain.com/gsoc2016/ForensicsTimelineModuleForOpenDF</link>
+        <guid isPermaLink="true">http://yourdomain.com/gsoc2016/ForensicsTimelineModuleForOpenDF</guid>
+        
+        
+        <category>gsoc2016</category>
+        
+      </item>
+    
+      <item>
+        <title>Gsoc2016: Developing Go library for interacting with many of the popular clouds</title>
+        <description>
+</description>
+        <pubDate>Thu, 03 Mar 2016 00:00:00 +0530</pubDate>
+        <link>http://yourdomain.com/gsoc2016/DevelopingGoLibraryForInteractingWithManyOfThePopularClouds</link>
+        <guid isPermaLink="true">http://yourdomain.com/gsoc2016/DevelopingGoLibraryForInteractingWithManyOfThePopularClouds</guid>
+        
+        
+        <category>gsoc2016</category>
+        
+      </item>
+    
+      <item>
+        <title>Gsoc: Gsoc2016</title>
+        <description>
+</description>
+        <pubDate>Thu, 03 Mar 2016 00:00:00 +0530</pubDate>
+        <link>http://yourdomain.com/gsoc/gsoc2016</link>
+        <guid isPermaLink="true">http://yourdomain.com/gsoc/gsoc2016</guid>
+        
+        
+        <category>gsoc</category>
+        
+      </item>
     
       <item>
         <title>Blog: Google Code-in 2015 wrap up</title>
@@ -26,8 +65,8 @@
 &lt;p&gt;We give our special thanks to our most active mentors who voluntarily contributed throughout the contest (Chritha Madhushanka, Dinith Kumara, Milindu Sanoj, Raveen Perera, Tharindu Ranathunga, Dilushi Piumwardane, Namal Jayasuriya, Nithila Vithanage, Nadeesh Fernando, Prabod Prasanga, Kasun Balasooriya, Tharindu Ranathunga, Pubudu Dharmaratne) We also thank the students who participated in the contest and contributed. Finally we would like to thank Stephanie for the amazing job she did handling organizations and students and interfering whenever needed. We thank Google again for selecting SCoRe as a mentoring organization and we hope to participate in GSoC 2016 again!&lt;/p&gt;
 </description>
         <pubDate>Tue, 26 Jan 2016 22:24:46 +0530</pubDate>
-        <link>http://localhost:4000/blog/gci/gci-2015-wrapup</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/gci/gci-2015-wrapup</guid>
+        <link>http://yourdomain.com/blog/gci/gci-2015-wrapup</link>
+        <guid isPermaLink="true">http://yourdomain.com/blog/gci/gci-2015-wrapup</guid>
         
         
         <category>blog</category>
@@ -98,8 +137,8 @@ A brief description of the three projects selected are as follows.&lt;/p&gt;
 &lt;p&gt;We would like to invite students interested in open source and sustainable computing research to get involved in our projects. While being thankful to Google for providing this opportunity, SCoRe lab look forward to participate in the GSoC 2016 with another set of proposals.&lt;/p&gt;
 </description>
         <pubDate>Sun, 15 Nov 2015 22:24:46 +0530</pubDate>
-        <link>http://localhost:4000/blog/gsoc/gsoc-2015-wrapup</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/gsoc/gsoc-2015-wrapup</guid>
+        <link>http://yourdomain.com/blog/gsoc/gsoc-2015-wrapup</link>
+        <guid isPermaLink="true">http://yourdomain.com/blog/gsoc/gsoc-2015-wrapup</guid>
         
         
         <category>blog</category>
@@ -117,8 +156,8 @@ A brief description of the three projects selected are as follows.&lt;/p&gt;
 &lt;p&gt;SCoRe group has been a pioneer in cooperating with Internet Society (ISOC), Swedish Agency for International Development Cooperation (Sida)/The Department for Research Cooperation (SAREC), The Swedish Program for Information and Communication Technology in Developing Regions (Spider) and Information Society Innovation Fund (ISIF) in the area of computer science by establishing several interesting ICT research projects. These projects are considered to be the benchmarks of such projects in the World. Vehicular sensor networks which is called BusNet, Multiseat computer which is called PokuruPC and Forensic Investigation Toolkit were our big success which received wide international acceptance.&lt;/p&gt;
 </description>
         <pubDate>Sat, 10 Oct 2015 22:24:46 +0530</pubDate>
-        <link>http://localhost:4000/blog/score-group</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/score-group</guid>
+        <link>http://yourdomain.com/blog/score-group</link>
+        <guid isPermaLink="true">http://yourdomain.com/blog/score-group</guid>
         
         
         <category>blog</category>
@@ -130,8 +169,8 @@ A brief description of the three projects selected are as follows.&lt;/p&gt;
         <description>&lt;p&gt;####YOUR PROJECT NAME&lt;/p&gt;
 </description>
         <pubDate>Fri, 25 Apr 2014 22:24:46 +0530</pubDate>
-        <link>http://localhost:4000/project/VIPNET</link>
-        <guid isPermaLink="true">http://localhost:4000/project/VIPNET</guid>
+        <link>http://yourdomain.com/project/VIPNET</link>
+        <guid isPermaLink="true">http://yourdomain.com/project/VIPNET</guid>
         
         
         <category>project</category>
@@ -143,8 +182,8 @@ A brief description of the three projects selected are as follows.&lt;/p&gt;
         <description>&lt;p&gt;####YOUR PROJECT NAME&lt;/p&gt;
 </description>
         <pubDate>Fri, 25 Apr 2014 22:24:46 +0530</pubDate>
-        <link>http://localhost:4000/project/TRACKER</link>
-        <guid isPermaLink="true">http://localhost:4000/project/TRACKER</guid>
+        <link>http://yourdomain.com/project/TRACKER</link>
+        <guid isPermaLink="true">http://yourdomain.com/project/TRACKER</guid>
         
         
         <category>project</category>
@@ -156,8 +195,8 @@ A brief description of the three projects selected are as follows.&lt;/p&gt;
         <description>&lt;p&gt;####YOUR PROJECT NAME&lt;/p&gt;
 </description>
         <pubDate>Fri, 25 Apr 2014 22:24:46 +0530</pubDate>
-        <link>http://localhost:4000/project/TIKIRI-POWER</link>
-        <guid isPermaLink="true">http://localhost:4000/project/TIKIRI-POWER</guid>
+        <link>http://yourdomain.com/project/TIKIRI-POWER</link>
+        <guid isPermaLink="true">http://yourdomain.com/project/TIKIRI-POWER</guid>
         
         
         <category>project</category>
@@ -169,47 +208,8 @@ A brief description of the three projects selected are as follows.&lt;/p&gt;
         <description>&lt;p&gt;####YOUR PROJECT NAME&lt;/p&gt;
 </description>
         <pubDate>Fri, 25 Apr 2014 22:24:46 +0530</pubDate>
-        <link>http://localhost:4000/project/TIKIRI-DB</link>
-        <guid isPermaLink="true">http://localhost:4000/project/TIKIRI-DB</guid>
-        
-        
-        <category>project</category>
-        
-      </item>
-    
-      <item>
-        <title>Project: S2NET</title>
-        <description>&lt;p&gt;####YOUR PROJECT NAME&lt;/p&gt;
-</description>
-        <pubDate>Fri, 25 Apr 2014 22:24:46 +0530</pubDate>
-        <link>http://localhost:4000/project/S2NET</link>
-        <guid isPermaLink="true">http://localhost:4000/project/S2NET</guid>
-        
-        
-        <category>project</category>
-        
-      </item>
-    
-      <item>
-        <title>Project: PackTrack</title>
-        <description>&lt;p&gt;####YOUR PROJECT NAME&lt;/p&gt;
-</description>
-        <pubDate>Fri, 25 Apr 2014 22:24:46 +0530</pubDate>
-        <link>http://localhost:4000/project/PACK-TRACK</link>
-        <guid isPermaLink="true">http://localhost:4000/project/PACK-TRACK</guid>
-        
-        
-        <category>project</category>
-        
-      </item>
-    
-      <item>
-        <title>Project: OpenDF</title>
-        <description>&lt;p&gt;####YOUR PROJECT NAME&lt;/p&gt;
-</description>
-        <pubDate>Fri, 25 Apr 2014 22:24:46 +0530</pubDate>
-        <link>http://localhost:4000/project/OPENDF</link>
-        <guid isPermaLink="true">http://localhost:4000/project/OPENDF</guid>
+        <link>http://yourdomain.com/project/TIKIRI-DB</link>
+        <guid isPermaLink="true">http://yourdomain.com/project/TIKIRI-DB</guid>
         
         
         <category>project</category>

@@ -1,0 +1,90 @@
+<style media="screen">
+	.card-view>img{
+		border: 1px solid #e3e3e3;
+		padding: 10px;
+	}
+	.card-view{
+		padding-bottom: 10px;
+		padding-top: 10px;
+	}
+</style>
+<div class="container mtb">
+	<div class="row">
+		{% for gsoc in site.categories['gsoc'] limit:include.limit %}
+
+		{% if gsoc.heading == "Google Summer of Code 2016" %}
+		<h2>{{gsoc.heading}}</h2>
+		<br/>
+		<section>
+			<section>
+				<p>
+					{{gsoc.introduction}}
+				</p>
+				<p>
+					<b>Mailing list: </b><a href="{{gsoc.mailinglisturl}}" target="_blank">{{gsoc.mailinglist}}</a>
+				</P>
+				<p>
+					IRC Channel: #{{gsoc.ircchannel}}
+				</p>
+			</section>
+			<section>
+				<header>
+					<h2>{{gsoc.guidelinehead}}</h2>
+				</header>
+				<p>{{gsoc.guidelinediscription}}:</p>
+				<ul style="list-style:inherit">
+					<li>
+						{{gsoc.guideline1}}
+					</li>
+					<li>
+						{{gsoc.guideline2}}
+					</li>
+					<li>
+						{{gsoc.guideline3}}
+					</li>
+					<li>
+						{{gsoc.guideline4}}
+					</li>
+					<li>
+						{{gsoc.guideline5}}
+					</li>
+				</ul>
+			</section>
+			<section>
+				<header>
+					<h2>{{gsoc.projecthead}}</h2>
+				</header>
+			</section>
+			{% endif %}
+			{% endfor %}
+
+			{% for gsoc2016 in site.categories['gsoc2016'] limit:include.limit %}
+			<section>
+				<ul style="padding-left: 25px;" type="circle"> 
+					<li>
+						<a href="{{gsoc2016.id}}">
+							{{gsoc2016.title}}
+						</a>
+					</li>
+				</ul>
+			</section>				
+
+			{% endfor %}
+
+			<br/>
+
+			{% for gsoc2016 in site.categories['gsoc2016'] limit:include.limit %}
+			<section>
+				<div id="{{gsoc2016.id}}">
+					<h2>{{gsoc2016.title}}</h2>
+					<p>{{gsoc2016.description}}</p>
+					<b>Required Knowledge: {{gsoc2016.requiredknowledge}}</b>
+					<br/>
+					<b>Possible Mentors: {{gsoc2016.possiblementors}}</b>
+				</div>
+			</section>				
+
+			{% endfor %}
+		</section>
+	</div>
+</div>
