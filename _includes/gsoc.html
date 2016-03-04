@@ -62,7 +62,7 @@
 			<section>
 				<ul style="padding-left: 25px;" type="circle"> 
 					<li>
-						<a href="{{gsoc2016.id}}">
+						<a href="#{{gsoc2016.divid}}">
 							{{gsoc2016.title}}
 						</a>
 					</li>
@@ -75,13 +75,18 @@
 
 			{% for gsoc2016 in site.categories['gsoc2016'] limit:include.limit %}
 			<section>
-				<div id="{{gsoc2016.id}}">
+
+			<ul style="padding-left: 25px;" type="circle"> 
+				<li>
+				<div id="{{gsoc2016.divid}}">
 					<h2>{{gsoc2016.title}}</h2>
 					<p>{{gsoc2016.description}}</p>
 					<b>Required Knowledge: {{gsoc2016.requiredknowledge}}</b>
 					<br/>
 					<b>Possible Mentors: {{gsoc2016.possiblementors}}</b>
 				</div>
+				</li>
+			</ul>
 			</section>				
 
 			{% endfor %}
