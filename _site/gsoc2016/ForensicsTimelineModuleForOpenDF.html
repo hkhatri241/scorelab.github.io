@@ -154,6 +154,17 @@
 			<section>
 				<ul style="padding-left: 25px;" type="circle"> 
 					<li>
+						<a href="#opendebug">
+							OpenDebug - General Debugger tool for Distributed Systems
+						</a>
+					</li>
+				</ul>
+			</section>				
+
+			
+			<section>
+				<ul style="padding-left: 25px;" type="circle"> 
+					<li>
 						<a href="#openads">
 							OpenADS
 						</a>
@@ -167,6 +178,17 @@
 					<li>
 						<a href="#devgocloud">
 							Developing Go library for interacting with many of the popular clouds
+						</a>
+					</li>
+				</ul>
+			</section>				
+
+			
+			<section>
+				<ul style="padding-left: 25px;" type="circle"> 
+					<li>
+						<a href="#cawa">
+							Convert Androphsy to a Web Application
 						</a>
 					</li>
 				</ul>
@@ -194,10 +216,26 @@
 				<li>
 				<div id="uift">
 					<h2>User Interfaces for Tracker</h2>
-					<p>We still are not done with the UIs of the Tracker, we have to write UIs that consumes the web servise and help users to interact. UIs includes following, <br/> <ul type="square"> <p><b>Managers&rsquo; Dashboard</b></p><ul type="square"><li>This page should be able to display the current active trackers that the manager is tracking.</li><li>A separate section should display a map with the current positions of the devices along with their paths for a pre-defined time.</li><li>When a tracker is selected, details about the selected trackers&rsquo; location and path should be highlighted on the map along with other relevant details.</li></ul><p><b>Create ResourceM</b></p><ul type="square"><li>This should allow the managers to create a resource along with the resource name, details and icon. This will be the type of the trackers.</li></ul><p><b>Create Tracker</b></p><ul type="square"><li>Manager should be able to add a new tracker. The tracker will be referenced from the MAC address of the tracking device. The type of the tracking device will be selected from a pre-created resources list.</li></ul><p><b>Tracker Details Page</b></p><ul type="square"><li>A tracker device should have its own details page. It will show the path and the location of the tracker and its relevant details. The manager should be able to send any message to the tracker device if the device supports that service.</li></ul></ul></p>
+					<p>We still are not done with the UIs of the Tracker <a href="https://github.com/scorelab/Tracker">OpenADS Architecture</a>, we have to write UIs that consumes the web servise and help users to interact. UIs includes following, <br/> <ul type="square"> <p><b>Managers&rsquo; Dashboard</b></p><ul type="square"><li>This page should be able to display the current active trackers that the manager is tracking.</li><li>A separate section should display a map with the current positions of the devices along with their paths for a pre-defined time.</li><li>When a tracker is selected, details about the selected trackers&rsquo; location and path should be highlighted on the map along with other relevant details.</li></ul><p><b>Create ResourceM</b></p><ul type="square"><li>This should allow the managers to create a resource along with the resource name, details and icon. This will be the type of the trackers.</li></ul><p><b>Create Tracker</b></p><ul type="square"><li>Manager should be able to add a new tracker. The tracker will be referenced from the MAC address of the tracking device. The type of the tracking device will be selected from a pre-created resources list.</li></ul><p><b>Tracker Details Page</b></p><ul type="square"><li>A tracker device should have its own details page. It will show the path and the location of the tracker and its relevant details. The manager should be able to send any message to the tracker device if the device supports that service.</li></ul></ul></p>
 					<b>Required Knowledge: </b>AngularJs, NodeJS, MongoDB (NoSQL)
 					<br/>
 					<b>Possible Mentors: </b>Charitha Elvitgala (charitha@scorelab.org)
+				</div>
+				</li>
+			</ul>
+			</section>				
+
+			
+			<section>
+
+			<ul style="padding-left: 25px;" type="circle"> 
+				<li>
+				<div id="opendebug">
+					<h2>OpenDebug - General Debugger tool for Distributed Systems</h2>
+					<p>In distributed systems, that type of testing only exposes the simplest of bugs and design flaws. The really difficult parts of building distributed systems lie in the interactions between multiple processes running on multiple machines, communicating asynchronously over networks, with expected message loss and corruption, expected failure of individual running instances, expected failures of individual machines, and expected failures of sections of the network. While you'd still want unit tests to cover units of work in such a system, those unit tests will not expose issues at any of the problems at the heart of distributed systems design. And since integration tests are usually built out of unit tests, they won't catch them either. <br/> <p>References:</p> <ul type="square"> <li><a href="http://googlecloudplatform.blogspot.com/2016/02/diagnose-problems-in-your-production-apps-faster-with-Google-Cloud-Debugger.html">Diagnose problems in your production apps faster with Google Cloud Debugger</a></li> <li><a href="https://www.quora.com/What-are-the-best-practices-for-debugging-distributed-systems-algorithms">What are the best practices for debugging distributed systems/algorithms?</a></li></ul></p>
+					<b>Required Knowledge: </b>Distributed Systems, Java
+					<br/>
+					<b>Possible Mentors: </b>Sameera Horawalavithana (sameera@scorelab.org)
 				</div>
 				</li>
 			</ul>
@@ -228,6 +266,22 @@
 					<h2>Developing Go library for interacting with many of the popular clouds</h2>
 					<p>Developing golan library for interacting with many of the popular cloud service providers using a unified API. This Go library can manage following resources; <br/> <ul type="square"> <p><b>Resources Types</b></p><ul type="square"><li>Cloud Servers</li><li>Cloud Storages</li><li>Load Balancers</li></ul></ul></p>
 					<b>Required Knowledge: </b>Go, Google Cloud, AWS
+					<br/>
+					<b>Possible Mentors: </b>Charitha Elvitgala (charitha@scorelab.org)
+				</div>
+				</li>
+			</ul>
+			</section>				
+
+			
+			<section>
+
+			<ul style="padding-left: 25px;" type="circle"> 
+				<li>
+				<div id="cawa">
+					<h2>Convert Androphsy to a Web Application</h2>
+					<p><p><a href="https://github.com/scorelab/ANDROPHSY">ANDROPHSY</a> is an opensource forensic tool for Android smartphones that helps digital forensic investigator throughout the life cycle of digital forensic investigation. Services provided by ANDROPHSY includes</p> <ul type="square"> <li>Digital forensic case and evidence management</li> <li>Raw data acquisition – physical acquisition and logical – file system level acquisition</li> <li>Meaningful evidence extraction and analysis support</li> <li>Evidence presentation</li></ul> <p>At the moment, Androphsy operates as a Java Swing application. So now we want to convert it to a web application that works similar to <a href="http://www.scorelab.org/OpenDF/">OpenDF</a>.</p></p>
+					<b>Required Knowledge: </b>AngularJs, Java, JavaEE, MySQL, Bootstrap
 					<br/>
 					<b>Possible Mentors: </b>Charitha Elvitgala (charitha@scorelab.org)
 				</div>
