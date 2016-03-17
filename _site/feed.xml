@@ -3,19 +3,19 @@
   <channel>
     <title>SCoRe Lab</title>
     <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Thu, 17 Mar 2016 00:32:49 +0530</pubDate>
-    <lastBuildDate>Thu, 17 Mar 2016 00:32:49 +0530</lastBuildDate>
-    <generator>Jekyll v3.1.2</generator>
+    <link>http://yourdomain.com/</link>
+    <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Thu, 17 Mar 2016 14:56:06 +0530</pubDate>
+    <lastBuildDate>Thu, 17 Mar 2016 14:56:06 +0530</lastBuildDate>
+    <generator>Jekyll v2.5.3</generator>
     
       <item>
         <title>Gsoc2016: Develop Bassa backend and Complete the REST API</title>
         <description>
 </description>
         <pubDate>Thu, 10 Mar 2016 00:00:00 +0530</pubDate>
-        <link>http://localhost:4000/gsoc2016/DevelopBassa-BackendAndCompleteTheREST_API</link>
-        <guid isPermaLink="true">http://localhost:4000/gsoc2016/DevelopBassa-BackendAndCompleteTheREST_API</guid>
+        <link>http://yourdomain.com/gsoc2016/DevelopBassa%20BackendAndCompleteTheREST_API</link>
+        <guid isPermaLink="true">http://yourdomain.com/gsoc2016/DevelopBassa%20BackendAndCompleteTheREST_API</guid>
         
         
         <category>gsoc2016</category>
@@ -27,8 +27,8 @@
         <description>
 </description>
         <pubDate>Thu, 10 Mar 2016 00:00:00 +0530</pubDate>
-        <link>http://localhost:4000/gsoc2016/DevelopANewFrontEndBassa</link>
-        <guid isPermaLink="true">http://localhost:4000/gsoc2016/DevelopANewFrontEndBassa</guid>
+        <link>http://yourdomain.com/gsoc2016/DevelopANewFrontEndBassa</link>
+        <guid isPermaLink="true">http://yourdomain.com/gsoc2016/DevelopANewFrontEndBassa</guid>
         
         
         <category>gsoc2016</category>
@@ -40,8 +40,8 @@
         <description>
 </description>
         <pubDate>Mon, 07 Mar 2016 00:00:00 +0530</pubDate>
-        <link>http://localhost:4000/gsoc2016/RewritingOpenDFfrontend</link>
-        <guid isPermaLink="true">http://localhost:4000/gsoc2016/RewritingOpenDFfrontend</guid>
+        <link>http://yourdomain.com/gsoc2016/RewritingOpenDFfrontend</link>
+        <guid isPermaLink="true">http://yourdomain.com/gsoc2016/RewritingOpenDFfrontend</guid>
         
         
         <category>gsoc2016</category>
@@ -53,8 +53,8 @@
         <description>
 </description>
         <pubDate>Mon, 07 Mar 2016 00:00:00 +0530</pubDate>
-        <link>http://localhost:4000/gsoc2016/MobileAppforOpenDF</link>
-        <guid isPermaLink="true">http://localhost:4000/gsoc2016/MobileAppforOpenDF</guid>
+        <link>http://yourdomain.com/gsoc2016/MobileAppforOpenDF</link>
+        <guid isPermaLink="true">http://yourdomain.com/gsoc2016/MobileAppforOpenDF</guid>
         
         
         <category>gsoc2016</category>
@@ -66,8 +66,8 @@
         <description>
 </description>
         <pubDate>Thu, 03 Mar 2016 00:00:00 +0530</pubDate>
-        <link>http://localhost:4000/gsoc/gsoc2016</link>
-        <guid isPermaLink="true">http://localhost:4000/gsoc/gsoc2016</guid>
+        <link>http://yourdomain.com/gsoc/gsoc2016</link>
+        <guid isPermaLink="true">http://yourdomain.com/gsoc/gsoc2016</guid>
         
         
         <category>gsoc</category>
@@ -79,8 +79,8 @@
         <description>
 </description>
         <pubDate>Tue, 01 Mar 2016 00:00:00 +0530</pubDate>
-        <link>http://localhost:4000/gsoc2016/UserInterfacesforTracker</link>
-        <guid isPermaLink="true">http://localhost:4000/gsoc2016/UserInterfacesforTracker</guid>
+        <link>http://yourdomain.com/gsoc2016/UserInterfacesforTracker</link>
+        <guid isPermaLink="true">http://yourdomain.com/gsoc2016/UserInterfacesforTracker</guid>
         
         
         <category>gsoc2016</category>
@@ -92,8 +92,8 @@
         <description>
 </description>
         <pubDate>Mon, 29 Feb 2016 00:00:00 +0530</pubDate>
-        <link>http://localhost:4000/gsoc2016/OpenDebug</link>
-        <guid isPermaLink="true">http://localhost:4000/gsoc2016/OpenDebug</guid>
+        <link>http://yourdomain.com/gsoc2016/OpenDebug</link>
+        <guid isPermaLink="true">http://yourdomain.com/gsoc2016/OpenDebug</guid>
         
         
         <category>gsoc2016</category>
@@ -105,8 +105,8 @@
         <description>
 </description>
         <pubDate>Mon, 29 Feb 2016 00:00:00 +0530</pubDate>
-        <link>http://localhost:4000/gsoc2016/OpenDF</link>
-        <guid isPermaLink="true">http://localhost:4000/gsoc2016/OpenDF</guid>
+        <link>http://yourdomain.com/gsoc2016/OpenDF</link>
+        <guid isPermaLink="true">http://yourdomain.com/gsoc2016/OpenDF</guid>
         
         
         <category>gsoc2016</category>
@@ -118,8 +118,8 @@
         <description>
 </description>
         <pubDate>Mon, 29 Feb 2016 00:00:00 +0530</pubDate>
-        <link>http://localhost:4000/gsoc2016/DevelopingGoLibraryForInteractingWithManyOfThePopularClouds</link>
-        <guid isPermaLink="true">http://localhost:4000/gsoc2016/DevelopingGoLibraryForInteractingWithManyOfThePopularClouds</guid>
+        <link>http://yourdomain.com/gsoc2016/DevelopingGoLibraryForInteractingWithManyOfThePopularClouds</link>
+        <guid isPermaLink="true">http://yourdomain.com/gsoc2016/DevelopingGoLibraryForInteractingWithManyOfThePopularClouds</guid>
         
         
         <category>gsoc2016</category>
@@ -131,8 +131,8 @@
         <description>
 </description>
         <pubDate>Sun, 28 Feb 2016 00:00:00 +0530</pubDate>
-        <link>http://localhost:4000/gsoc2016/ConvertAndrophsytoaWebApplication</link>
-        <guid isPermaLink="true">http://localhost:4000/gsoc2016/ConvertAndrophsytoaWebApplication</guid>
+        <link>http://yourdomain.com/gsoc2016/ConvertAndrophsytoaWebApplication</link>
+        <guid isPermaLink="true">http://yourdomain.com/gsoc2016/ConvertAndrophsytoaWebApplication</guid>
         
         
         <category>gsoc2016</category>
