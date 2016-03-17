@@ -5,17 +5,30 @@
     <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</description>
     <link>http://yourdomain.com/</link>
     <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Thu, 17 Mar 2016 14:56:06 +0530</pubDate>
-    <lastBuildDate>Thu, 17 Mar 2016 14:56:06 +0530</lastBuildDate>
-    <generator>Jekyll v2.5.3</generator>
+    <pubDate>Thu, 17 Mar 2016 16:05:25 +0530</pubDate>
+    <lastBuildDate>Thu, 17 Mar 2016 16:05:25 +0530</lastBuildDate>
+    <generator>Jekyll v3.1.2</generator>
+    
+      <item>
+        <title>Gsoc2016: End-to-End Encryption of Android Phone Calls</title>
+        <description>
+</description>
+        <pubDate>Thu, 10 Mar 2016 00:00:00 +0530</pubDate>
+        <link>http://yourdomain.com/gsoc2016/End-to-End_Encryption_of_Android_Phone_Calls</link>
+        <guid isPermaLink="true">http://yourdomain.com/gsoc2016/End-to-End_Encryption_of_Android_Phone_Calls</guid>
+        
+        
+        <category>gsoc2016</category>
+        
+      </item>
     
       <item>
         <title>Gsoc2016: Develop Bassa backend and Complete the REST API</title>
         <description>
 </description>
         <pubDate>Thu, 10 Mar 2016 00:00:00 +0530</pubDate>
-        <link>http://yourdomain.com/gsoc2016/DevelopBassa%20BackendAndCompleteTheREST_API</link>
-        <guid isPermaLink="true">http://yourdomain.com/gsoc2016/DevelopBassa%20BackendAndCompleteTheREST_API</guid>
+        <link>http://yourdomain.com/gsoc2016/DevelopBassa-BackendAndCompleteTheREST_API</link>
+        <guid isPermaLink="true">http://yourdomain.com/gsoc2016/DevelopBassa-BackendAndCompleteTheREST_API</guid>
         
         
         <category>gsoc2016</category>
@@ -62,6 +75,19 @@
       </item>
     
       <item>
+        <title>Gsoc2016: Redesign Tikiri-DB</title>
+        <description>
+</description>
+        <pubDate>Sat, 05 Mar 2016 00:00:00 +0530</pubDate>
+        <link>http://yourdomain.com/gsoc2016/RedesignTikiriDB</link>
+        <guid isPermaLink="true">http://yourdomain.com/gsoc2016/RedesignTikiriDB</guid>
+        
+        
+        <category>gsoc2016</category>
+        
+      </item>
+    
+      <item>
         <title>Gsoc: Gsoc2016</title>
         <description>
 </description>
@@ -88,51 +114,25 @@
       </item>
     
       <item>
+        <title>Gsoc2016: Auto Installer for Tracker</title>
+        <description>
+</description>
+        <pubDate>Tue, 01 Mar 2016 00:00:00 +0530</pubDate>
+        <link>http://yourdomain.com/gsoc2016/AutoInstallerforTracker</link>
+        <guid isPermaLink="true">http://yourdomain.com/gsoc2016/AutoInstallerforTracker</guid>
+        
+        
+        <category>gsoc2016</category>
+        
+      </item>
+    
+      <item>
         <title>Gsoc2016: OpenDebug - General Debugger tool for Distributed Systems</title>
         <description>
 </description>
         <pubDate>Mon, 29 Feb 2016 00:00:00 +0530</pubDate>
         <link>http://yourdomain.com/gsoc2016/OpenDebug</link>
         <guid isPermaLink="true">http://yourdomain.com/gsoc2016/OpenDebug</guid>
-        
-        
-        <category>gsoc2016</category>
-        
-      </item>
-    
-      <item>
-        <title>Gsoc2016: OpenADS</title>
-        <description>
-</description>
-        <pubDate>Mon, 29 Feb 2016 00:00:00 +0530</pubDate>
-        <link>http://yourdomain.com/gsoc2016/OpenDF</link>
-        <guid isPermaLink="true">http://yourdomain.com/gsoc2016/OpenDF</guid>
-        
-        
-        <category>gsoc2016</category>
-        
-      </item>
-    
-      <item>
-        <title>Gsoc2016: Developing Go library for interacting with many of the popular clouds</title>
-        <description>
-</description>
-        <pubDate>Mon, 29 Feb 2016 00:00:00 +0530</pubDate>
-        <link>http://yourdomain.com/gsoc2016/DevelopingGoLibraryForInteractingWithManyOfThePopularClouds</link>
-        <guid isPermaLink="true">http://yourdomain.com/gsoc2016/DevelopingGoLibraryForInteractingWithManyOfThePopularClouds</guid>
-        
-        
-        <category>gsoc2016</category>
-        
-      </item>
-    
-      <item>
-        <title>Gsoc2016: Convert Androphsy to a Web Application</title>
-        <description>
-</description>
-        <pubDate>Sun, 28 Feb 2016 00:00:00 +0530</pubDate>
-        <link>http://yourdomain.com/gsoc2016/ConvertAndrophsytoaWebApplication</link>
-        <guid isPermaLink="true">http://yourdomain.com/gsoc2016/ConvertAndrophsytoaWebApplication</guid>
         
         
         <category>gsoc2016</category>
