@@ -5,9 +5,48 @@
     <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</description>
     <link>http://yourdomain.com/</link>
     <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 23 Mar 2016 12:41:40 +0530</pubDate>
-    <lastBuildDate>Wed, 23 Mar 2016 12:41:40 +0530</lastBuildDate>
+    <pubDate>Sat, 04 Jun 2016 12:42:21 +0530</pubDate>
+    <lastBuildDate>Sat, 04 Jun 2016 12:42:21 +0530</lastBuildDate>
     <generator>Jekyll v3.1.2</generator>
+    
+      <item>
+        <title>Publications: Sensor Based Breakage Detection For Electric Fences</title>
+        <description>
+</description>
+        <pubDate>Wed, 01 Jun 2016 00:00:00 +0530</pubDate>
+        <link>http://yourdomain.com/publications/SensorBasedBreakageDetectionForElectricFences</link>
+        <guid isPermaLink="true">http://yourdomain.com/publications/SensorBasedBreakageDetectionForElectricFences</guid>
+        
+        
+        <category>publications</category>
+        
+      </item>
+    
+      <item>
+        <title>Publications: Listening to the Giants: Using Elephant Infra-Sound to Solve the Human-Elephant Conflict</title>
+        <description>
+</description>
+        <pubDate>Wed, 01 Jun 2016 00:00:00 +0530</pubDate>
+        <link>http://yourdomain.com/publications/ListeningtotheGiants</link>
+        <guid isPermaLink="true">http://yourdomain.com/publications/ListeningtotheGiants</guid>
+        
+        
+        <category>publications</category>
+        
+      </item>
+    
+      <item>
+        <title>Publications: A Quadcopter Controller to Maintain Radio Link Quality</title>
+        <description>
+</description>
+        <pubDate>Wed, 01 Jun 2016 00:00:00 +0530</pubDate>
+        <link>http://yourdomain.com/publications/AQuadcopterControllertoMaintainRadioLinkQuality</link>
+        <guid isPermaLink="true">http://yourdomain.com/publications/AQuadcopterControllertoMaintainRadioLinkQuality</guid>
+        
+        
+        <category>publications</category>
+        
+      </item>
     
       <item>
         <title>Gsoc2016: End-to-End Encryption of Android Phone Calls</title>
@@ -94,45 +133,6 @@
         <pubDate>Mon, 07 Mar 2016 00:00:00 +0530</pubDate>
         <link>http://yourdomain.com/gsoc2016/MobileAppforOpenDF</link>
         <guid isPermaLink="true">http://yourdomain.com/gsoc2016/MobileAppforOpenDF</guid>
-        
-        
-        <category>gsoc2016</category>
-        
-      </item>
-    
-      <item>
-        <title>Gsoc2016: Redesign Tikiri-DB</title>
-        <description>
-</description>
-        <pubDate>Sat, 05 Mar 2016 00:00:00 +0530</pubDate>
-        <link>http://yourdomain.com/gsoc2016/RedesignTikiriDB</link>
-        <guid isPermaLink="true">http://yourdomain.com/gsoc2016/RedesignTikiriDB</guid>
-        
-        
-        <category>gsoc2016</category>
-        
-      </item>
-    
-      <item>
-        <title>Gsoc: Gsoc2016</title>
-        <description>
-</description>
-        <pubDate>Thu, 03 Mar 2016 00:00:00 +0530</pubDate>
-        <link>http://yourdomain.com/gsoc/gsoc2016</link>
-        <guid isPermaLink="true">http://yourdomain.com/gsoc/gsoc2016</guid>
-        
-        
-        <category>gsoc</category>
-        
-      </item>
-    
-      <item>
-        <title>Gsoc2016: User Interfaces for Tracker</title>
-        <description>
-</description>
-        <pubDate>Tue, 01 Mar 2016 00:00:00 +0530</pubDate>
-        <link>http://yourdomain.com/gsoc2016/UserInterfacesforTracker</link>
-        <guid isPermaLink="true">http://yourdomain.com/gsoc2016/UserInterfacesforTracker</guid>
         
         
         <category>gsoc2016</category>
