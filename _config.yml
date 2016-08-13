@@ -45,14 +45,14 @@ tel: +34 8493-4893
 
 # Members information. Shown on About page.
 members:
-  - name: Dr.Kasun de Zoysa
+  - name: Dr. Kasun de Zoysa
     position: Senior Lecturer, UCSC
     text: BSc(Col), PhLic(Stockholm), PhD(Stockholm)(Senior Lecturer Gr. II)
     img: kasun.jpg
     social:
       - title: envelope #use for email address
         url: mailto:kasun@ucsc.lk
-  - name: Dr.Chamath Keppitiyagama
+  - name: Dr. Chamath Keppitiyagama
     position: Senior Lecturer, UCSC
     text: BSc(Col), MSc(British Columbia), PhD (British Columbia)(Senior Lecturer Gr. I)
     img: chamath.jpg
