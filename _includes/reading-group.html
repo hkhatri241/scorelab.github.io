@@ -1,0 +1,41 @@
+<style media="screen">
+	.card-view>img{
+		border: 1px solid #e3e3e3;
+		padding: 10px;
+	}
+	.card-view{
+		padding-bottom: 10px;
+		padding-top: 10px;
+	}
+</style>
+<div class="container mtb">
+	<div class="row">
+		{% for reading-group in site.categories['reading-group'] limit:include.limit %}
+
+		{% if reading-group.heading == "SCoRe Reading Group" %}
+        <!--<h2>{{reading-group.heading}}</h2>-->
+        <!--<br/>-->
+		<section>
+			<section>
+				<p>
+					{{reading-group.introduction}}
+				</p>
+
+                <!--
+				<p>
+					<b>Mailing list: </b><a href="{{gsoc.mailinglisturl}}" target="_blank">{{gsoc.mailinglist}}</a>
+				</P>
+				<p>
+					<b>IRC Channel:</b> #{{gsoc.ircchannel}}
+				</p>
+				<p>
+					<b><a href="{{gsoc.templateurl}}" target="_blank">{{gsoc.proposaltemplate}}</a></b>
+				</p>
+                -->
+
+			</section>
+			{% endif %}
+			{% endfor %}
+		</section>
+	</div>
+</div>
