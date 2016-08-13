@@ -3,8 +3,9 @@ layout: reading-group
 categories: reading-group
 heading: SCoRe Reading Group
 introduction: Our group meets to discuss different research topics and papers in every week. This is the place where we gets to know the recent advancements in different areas of our interests.
-mailinglist: score-community@googlegroups.com
-mailinglisturl: http://groups.google.com/d/forum/score-community
+participate: If you enjoy reading academic write ups such as research papers, our door is open for you. We read and discuss papers from various sub-domains in Computer Science. We love reading and hope it will help us to write better too. We will share the details of our weekly activities via email.
+mailinglist: score-reading-group@googlegroups.com
+mailinglisturl: http://groups.google.com/d/forum/score-reading-group
 proposaltemplate: Suggested Proposal Template
 templateurl: https://goo.gl/KXcqAL
 ircchannel: scorelab
