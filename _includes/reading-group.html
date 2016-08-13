@@ -13,29 +13,24 @@
 		{% for reading-group in site.categories['reading-group'] limit:include.limit %}
 
 		{% if reading-group.heading == "SCoRe Reading Group" %}
-        <!--<h2>{{reading-group.heading}}</h2>-->
-        <!--<br/>-->
-		<section>
-			<section>
-				<p>
-					{{reading-group.introduction}}
-				</p>
+        <p>
+            {{reading-group.introduction}}
+        </p>
 
-                <!--
-				<p>
-					<b>Mailing list: </b><a href="{{gsoc.mailinglisturl}}" target="_blank">{{gsoc.mailinglist}}</a>
-				</P>
-				<p>
-					<b>IRC Channel:</b> #{{gsoc.ircchannel}}
-				</p>
-				<p>
-					<b><a href="{{gsoc.templateurl}}" target="_blank">{{gsoc.proposaltemplate}}</a></b>
-				</p>
-                -->
+        <p>
+            <b>When and where?</b>
+        </p>
 
-			</section>
-			{% endif %}
-			{% endfor %}
-		</section>
+        <section>
+				<ul style="padding-left: 25px;" type="circle"> 
+					<li>Date: Every Friday</li>
+                    <li>Time: 11.00am</li>
+                    <li>Venue: SCoRe lab / 4th floor conference room</li>
+				</ul>
+        </section>	
+
+        {% endif %}
+
+		{% endfor %}
 	</div>
 </div>

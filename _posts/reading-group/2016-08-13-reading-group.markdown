@@ -2,7 +2,7 @@
 layout: reading-group
 categories: reading-group
 heading: SCoRe Reading Group
-introduction: This is the home page of SCoRe reading group. It's currently under development.
+introduction: Our group meets to discuss different research topics and papers in every week. This is the place where we gets to know the recent advancements in different areas of our interests.
 mailinglist: score-community@googlegroups.com
 mailinglisturl: http://groups.google.com/d/forum/score-community
 proposaltemplate: Suggested Proposal Template
