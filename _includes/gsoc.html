@@ -12,7 +12,7 @@
 	<div class="row">
 		{% for gsoc in site.categories['gsoc'] limit:include.limit %}
 
-		{% if gsoc.heading == "Google Summer of Code 2016" %}
+		{% if gsoc.heading == "Google Summer of Code 2017" %}
 		<h2>{{gsoc.heading}}</h2>
 		<br/>
 		<section>
@@ -61,12 +61,12 @@
 			{% endif %}
 			{% endfor %}
 
-			{% for gsoc2016 in site.categories['gsoc2016'] limit:include.limit %}
+			{% for gsoc2017 in site.categories['gsoc2016'] limit:include.limit %}
 			<section>
 				<ul style="padding-left: 25px;" type="circle"> 
 					<li>
-						<a href="#{{gsoc2016.divid}}">
-							{{gsoc2016.title}}
+						<a href="#{{gsoc2017.divid}}">
+							{{gsoc2017.title}}
 						</a>
 					</li>
 				</ul>
