@@ -3,19 +3,19 @@
   <channel>
     <title>SCoRe Lab</title>
     <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</description>
-    <link>http://yourdomain.com/</link>
-    <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sun, 14 Aug 2016 01:49:55 +0530</pubDate>
-    <lastBuildDate>Sun, 14 Aug 2016 01:49:55 +0530</lastBuildDate>
-    <generator>Jekyll v3.1.6</generator>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Wed, 25 Jan 2017 20:09:33 +0530</pubDate>
+    <lastBuildDate>Wed, 25 Jan 2017 20:09:33 +0530</lastBuildDate>
+    <generator>Jekyll v3.3.0</generator>
     
       <item>
         <title>Reading-group: Reading Group</title>
         <description>
 </description>
         <pubDate>Sat, 13 Aug 2016 00:00:00 +0530</pubDate>
-        <link>http://yourdomain.com/reading-group/reading-group</link>
-        <guid isPermaLink="true">http://yourdomain.com/reading-group/reading-group</guid>
+        <link>http://localhost:4000/reading-group/reading-group</link>
+        <guid isPermaLink="true">http://localhost:4000/reading-group/reading-group</guid>
         
         
         <category>reading-group</category>
@@ -27,8 +27,8 @@
         <description>
 </description>
         <pubDate>Wed, 01 Jun 2016 00:00:00 +0530</pubDate>
-        <link>http://yourdomain.com/publications/SensorBasedBreakageDetectionForElectricFences</link>
-        <guid isPermaLink="true">http://yourdomain.com/publications/SensorBasedBreakageDetectionForElectricFences</guid>
+        <link>http://localhost:4000/publications/SensorBasedBreakageDetectionForElectricFences</link>
+        <guid isPermaLink="true">http://localhost:4000/publications/SensorBasedBreakageDetectionForElectricFences</guid>
         
         
         <category>publications</category>
@@ -40,8 +40,8 @@
         <description>
 </description>
         <pubDate>Wed, 01 Jun 2016 00:00:00 +0530</pubDate>
-        <link>http://yourdomain.com/publications/ListeningtotheGiants</link>
-        <guid isPermaLink="true">http://yourdomain.com/publications/ListeningtotheGiants</guid>
+        <link>http://localhost:4000/publications/ListeningtotheGiants</link>
+        <guid isPermaLink="true">http://localhost:4000/publications/ListeningtotheGiants</guid>
         
         
         <category>publications</category>
@@ -53,8 +53,8 @@
         <description>
 </description>
         <pubDate>Wed, 01 Jun 2016 00:00:00 +0530</pubDate>
-        <link>http://yourdomain.com/publications/AQuadcopterControllertoMaintainRadioLinkQuality</link>
-        <guid isPermaLink="true">http://yourdomain.com/publications/AQuadcopterControllertoMaintainRadioLinkQuality</guid>
+        <link>http://localhost:4000/publications/AQuadcopterControllertoMaintainRadioLinkQuality</link>
+        <guid isPermaLink="true">http://localhost:4000/publications/AQuadcopterControllertoMaintainRadioLinkQuality</guid>
         
         
         <category>publications</category>
@@ -66,8 +66,8 @@
         <description>
 </description>
         <pubDate>Thu, 10 Mar 2016 00:00:00 +0530</pubDate>
-        <link>http://yourdomain.com/gsoc2016/End-to-End_Encryption_of_Android_Phone_Calls</link>
-        <guid isPermaLink="true">http://yourdomain.com/gsoc2016/End-to-End_Encryption_of_Android_Phone_Calls</guid>
+        <link>http://localhost:4000/gsoc2016/End-to-End_Encryption_of_Android_Phone_Calls</link>
+        <guid isPermaLink="true">http://localhost:4000/gsoc2016/End-to-End_Encryption_of_Android_Phone_Calls</guid>
         
         
         <category>gsoc2016</category>
@@ -79,8 +79,8 @@
         <description>
 </description>
         <pubDate>Thu, 10 Mar 2016 00:00:00 +0530</pubDate>
-        <link>http://yourdomain.com/gsoc2016/DevelopBassa-BackendAndCompleteTheREST_API</link>
-        <guid isPermaLink="true">http://yourdomain.com/gsoc2016/DevelopBassa-BackendAndCompleteTheREST_API</guid>
+        <link>http://localhost:4000/gsoc2016/DevelopBassa-BackendAndCompleteTheREST_API</link>
+        <guid isPermaLink="true">http://localhost:4000/gsoc2016/DevelopBassa-BackendAndCompleteTheREST_API</guid>
         
         
         <category>gsoc2016</category>
@@ -92,8 +92,8 @@
         <description>
 </description>
         <pubDate>Thu, 10 Mar 2016 00:00:00 +0530</pubDate>
-        <link>http://yourdomain.com/gsoc2016/DevelopANewFrontEndBassa</link>
-        <guid isPermaLink="true">http://yourdomain.com/gsoc2016/DevelopANewFrontEndBassa</guid>
+        <link>http://localhost:4000/gsoc2016/DevelopANewFrontEndBassa</link>
+        <guid isPermaLink="true">http://localhost:4000/gsoc2016/DevelopANewFrontEndBassa</guid>
         
         
         <category>gsoc2016</category>
@@ -105,8 +105,8 @@
         <description>
 </description>
         <pubDate>Thu, 10 Mar 2016 00:00:00 +0530</pubDate>
-        <link>http://yourdomain.com/gsoc2016/Android_app_for_tracker</link>
-        <guid isPermaLink="true">http://yourdomain.com/gsoc2016/Android_app_for_tracker</guid>
+        <link>http://localhost:4000/gsoc2016/Android_app_for_tracker</link>
+        <guid isPermaLink="true">http://localhost:4000/gsoc2016/Android_app_for_tracker</guid>
         
         
         <category>gsoc2016</category>
@@ -118,8 +118,8 @@
         <description>
 </description>
         <pubDate>Mon, 07 Mar 2016 00:00:00 +0530</pubDate>
-        <link>http://yourdomain.com/gsoc2016/UsingJVMlanguage_in_IoT_platforms</link>
-        <guid isPermaLink="true">http://yourdomain.com/gsoc2016/UsingJVMlanguage_in_IoT_platforms</guid>
+        <link>http://localhost:4000/gsoc2016/UsingJVMlanguage_in_IoT_platforms</link>
+        <guid isPermaLink="true">http://localhost:4000/gsoc2016/UsingJVMlanguage_in_IoT_platforms</guid>
         
         
         <category>gsoc2016</category>
@@ -131,8 +131,8 @@
         <description>
 </description>
         <pubDate>Mon, 07 Mar 2016 00:00:00 +0530</pubDate>
-        <link>http://yourdomain.com/gsoc2016/RewritingOpenDFfrontend</link>
-        <guid isPermaLink="true">http://yourdomain.com/gsoc2016/RewritingOpenDFfrontend</guid>
+        <link>http://localhost:4000/gsoc2016/RewritingOpenDFfrontend</link>
+        <guid isPermaLink="true">http://localhost:4000/gsoc2016/RewritingOpenDFfrontend</guid>
         
         
         <category>gsoc2016</category>
