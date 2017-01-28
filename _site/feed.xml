@@ -5,9 +5,61 @@
     <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 23 Jan 2017 20:51:29 +0530</pubDate>
-    <lastBuildDate>Mon, 23 Jan 2017 20:51:29 +0530</lastBuildDate>
-    <generator>Jekyll v3.3.0</generator>
+    <pubDate>Sat, 28 Jan 2017 12:54:15 +0530</pubDate>
+    <lastBuildDate>Sat, 28 Jan 2017 12:54:15 +0530</lastBuildDate>
+    <generator>Jekyll v3.3.1</generator>
+    
+      <item>
+        <title>Gsoc2017: Implement bidirectional publish-subscribe behaviour</title>
+        <description>
+</description>
+        <pubDate>Sat, 28 Jan 2017 00:00:00 +0530</pubDate>
+        <link>http://localhost:4000/gsoc2017/ImplementBiDirectionalPublishSubscribeBehavior</link>
+        <guid isPermaLink="true">http://localhost:4000/gsoc2017/ImplementBiDirectionalPublishSubscribeBehavior</guid>
+        
+        
+        <category>gsoc2017</category>
+        
+      </item>
+    
+      <item>
+        <title>Gsoc2017: Implement authentication for message broker and rest API for OpenIOE</title>
+        <description>
+</description>
+        <pubDate>Sat, 28 Jan 2017 00:00:00 +0530</pubDate>
+        <link>http://localhost:4000/gsoc2017/ImplementAuthenticationForMessageBrokerAndRestAPIforOpenIOE</link>
+        <guid isPermaLink="true">http://localhost:4000/gsoc2017/ImplementAuthenticationForMessageBrokerAndRestAPIforOpenIOE</guid>
+        
+        
+        <category>gsoc2017</category>
+        
+      </item>
+    
+      <item>
+        <title>Gsoc2017: Developing Go library for interacting with many of the popular clouds</title>
+        <description>
+</description>
+        <pubDate>Sat, 28 Jan 2017 00:00:00 +0530</pubDate>
+        <link>http://localhost:4000/gsoc2017/DevelopingGoLibraryForInteractingWithManyOtherPopularClouds</link>
+        <guid isPermaLink="true">http://localhost:4000/gsoc2017/DevelopingGoLibraryForInteractingWithManyOtherPopularClouds</guid>
+        
+        
+        <category>gsoc2017</category>
+        
+      </item>
+    
+      <item>
+        <title>Gsoc2017: Convert Androphsy to a Web Application</title>
+        <description>
+</description>
+        <pubDate>Sat, 28 Jan 2017 00:00:00 +0530</pubDate>
+        <link>http://localhost:4000/gsoc2017/ConvertAndrophsyToAWebApplication</link>
+        <guid isPermaLink="true">http://localhost:4000/gsoc2017/ConvertAndrophsyToAWebApplication</guid>
+        
+        
+        <category>gsoc2017</category>
+        
+      </item>
     
       <item>
         <title>Reading-group: Reading Group</title>
@@ -81,58 +133,6 @@
         <pubDate>Thu, 10 Mar 2016 00:00:00 +0530</pubDate>
         <link>http://localhost:4000/gsoc2016/DevelopBassa-BackendAndCompleteTheREST_API</link>
         <guid isPermaLink="true">http://localhost:4000/gsoc2016/DevelopBassa-BackendAndCompleteTheREST_API</guid>
-        
-        
-        <category>gsoc2016</category>
-        
-      </item>
-    
-      <item>
-        <title>Gsoc2016: Develop a new front end - Bassa</title>
-        <description>
-</description>
-        <pubDate>Thu, 10 Mar 2016 00:00:00 +0530</pubDate>
-        <link>http://localhost:4000/gsoc2016/DevelopANewFrontEndBassa</link>
-        <guid isPermaLink="true">http://localhost:4000/gsoc2016/DevelopANewFrontEndBassa</guid>
-        
-        
-        <category>gsoc2016</category>
-        
-      </item>
-    
-      <item>
-        <title>Gsoc2016: Android app for tracker</title>
-        <description>
-</description>
-        <pubDate>Thu, 10 Mar 2016 00:00:00 +0530</pubDate>
-        <link>http://localhost:4000/gsoc2016/Android_app_for_tracker</link>
-        <guid isPermaLink="true">http://localhost:4000/gsoc2016/Android_app_for_tracker</guid>
-        
-        
-        <category>gsoc2016</category>
-        
-      </item>
-    
-      <item>
-        <title>Gsoc2016: Using JVM language in IoT platforms (Contiki)</title>
-        <description>
-</description>
-        <pubDate>Mon, 07 Mar 2016 00:00:00 +0530</pubDate>
-        <link>http://localhost:4000/gsoc2016/UsingJVMlanguage_in_IoT_platforms</link>
-        <guid isPermaLink="true">http://localhost:4000/gsoc2016/UsingJVMlanguage_in_IoT_platforms</guid>
-        
-        
-        <category>gsoc2016</category>
-        
-      </item>
-    
-      <item>
-        <title>Gsoc2016: Rewriting OpenDF frontend</title>
-        <description>
-</description>
-        <pubDate>Mon, 07 Mar 2016 00:00:00 +0530</pubDate>
-        <link>http://localhost:4000/gsoc2016/RewritingOpenDFfrontend</link>
-        <guid isPermaLink="true">http://localhost:4000/gsoc2016/RewritingOpenDFfrontend</guid>
         
         
         <category>gsoc2016</category>
