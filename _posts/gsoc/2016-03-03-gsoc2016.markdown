@@ -7,7 +7,7 @@ mailinglist: score-community@googlegroups.com
 mailinglisturl: http://groups.google.com/d/forum/score-community
 proposaltemplate: Suggested Proposal Template
 templateurl: https://goo.gl/KXcqAL
-ircchannel: https://gitter.im/scorelab/scorelab#
+ircchannel: https://gitter.im/scorelab/scorelab
 guidelinehead: Important Guidelines on Submitting Ideas
 guidelinediscription: There are some important guidelines to submit ideas, please read these carefully before adding your ideas;
 guideline1: There is a fixed time period for implementing and coding your ideas.

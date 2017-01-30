@@ -5,33 +5,29 @@
     <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</description>
     <link>http://www.scorelab.org/</link>
     <atom:link href="http://www.scorelab.org/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 30 Jan 2017 10:25:22 +0530</pubDate>
-    <lastBuildDate>Mon, 30 Jan 2017 10:25:22 +0530</lastBuildDate>
-    <generator>Jekyll v3.2.1</generator>
+    <pubDate>Mon, 30 Jan 2017 12:00:46 +0530</pubDate>
+    <lastBuildDate>Mon, 30 Jan 2017 12:00:46 +0530</lastBuildDate>
+    <generator>Jekyll v3.1.2</generator>
     
       <item>
-        <title>Gsoc2017: Implement bidirectional publish-subscribe behaviour</title>
+        <title>: </title>
         <description>
 </description>
-        <pubDate>Sat, 28 Jan 2017 00:00:00 +0530</pubDate>
-        <link>http://www.scorelab.org/gsoc2017/ImplementBiDirectionalPublishSubscribeBehavior</link>
-        <guid isPermaLink="true">http://www.scorelab.org/gsoc2017/ImplementBiDirectionalPublishSubscribeBehavior</guid>
+        <pubDate>Mon, 30 Jan 2017 12:00:46 +0530</pubDate>
+        <link>http://www.scorelab.org/2017-01-28-ImplementBiDirectionalPublishSubscribeBehavior</link>
+        <guid isPermaLink="true">http://www.scorelab.org/2017-01-28-ImplementBiDirectionalPublishSubscribeBehavior</guid>
         
-        
-        <category>gsoc2017</category>
         
       </item>
     
       <item>
-        <title>Gsoc2017: Implement authentication for message broker and rest API for OpenIOE</title>
+        <title>: </title>
         <description>
 </description>
-        <pubDate>Sat, 28 Jan 2017 00:00:00 +0530</pubDate>
-        <link>http://www.scorelab.org/gsoc2017/ImplementAuthenticationForMessageBrokerAndRestAPIforOpenIOE</link>
-        <guid isPermaLink="true">http://www.scorelab.org/gsoc2017/ImplementAuthenticationForMessageBrokerAndRestAPIforOpenIOE</guid>
+        <pubDate>Mon, 30 Jan 2017 12:00:46 +0530</pubDate>
+        <link>http://www.scorelab.org/2017-01-28-ImplementAuthenticationForMessageBrokerAndRestAPIforOpenIOE</link>
+        <guid isPermaLink="true">http://www.scorelab.org/2017-01-28-ImplementAuthenticationForMessageBrokerAndRestAPIforOpenIOE</guid>
         
-        
-        <category>gsoc2017</category>
         
       </item>
     
