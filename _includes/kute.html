@@ -1,0 +1,54 @@
+<style media="screen">
+	.card-view>img{
+		border: 1px solid #e3e3e3;
+		padding: 10px;
+	}
+	.card-view{
+		padding-bottom: 10px;
+		padding-top: 10px;
+	}
+</style>
+<div class="container mtb">
+	<div class="row">
+
+        <section>
+
+        <div class="col-lg-4">
+            <img class="img-responsive" src="{{ "/assets/img/project/kute.png" | prepend: site.baseurl }}" alt="">
+        </div>
+
+        <div class="col-lg-8">
+		{% for reading-group in site.categories['kute'] limit:include.limit %}
+
+		{% if reading-group.heading == "kute" %}
+
+        <p>
+            {{reading-group.introduction}}
+        </p>
+
+				<p><b>Installation</b></p>
+
+				<p>Go to your terminal and execute this command, git clone <a>https://github.com/scorelab/kute.git</a> or download the zip file.</p>
+
+
+		<ol style="padding-left: 25px;" type="circle">
+            <li>Launch android studio(version 1.4 above)</li>
+            <li>Click on File, then New and then Import Project Or from the welcome screen of android studio click on Import project. (If you wish to contribute, you can directly link to GitHub)</li>
+						<li>Browse to the directory where you cloned (extracte the zip)</li>
+						<li>Run and build the Gradle</li>
+						<li>If Gradle finishes to build without error run the project by clicking on the play button on the tool bar</li>
+						<li>Wait for a few seconds and the app should start on your device(android phone or emulator)</li>
+						<li>Make sure you are connected to internet</li>
+		</ol>
+
+        </div>
+
+
+
+        </section>
+
+        {% endif %}
+
+		{% endfor %}
+	</div>
+</div>

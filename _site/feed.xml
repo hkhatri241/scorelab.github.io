@@ -3,31 +3,19 @@
   <channel>
     <title>SCoRe Lab</title>
     <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-<<<<<<< HEAD
-    <pubDate>Sat, 28 Jan 2017 12:54:15 +0530</pubDate>
-    <lastBuildDate>Sat, 28 Jan 2017 12:54:15 +0530</lastBuildDate>
-    <generator>Jekyll v3.3.1</generator>
-=======
-    <pubDate>Wed, 25 Jan 2017 20:09:33 +0530</pubDate>
-    <lastBuildDate>Wed, 25 Jan 2017 20:09:33 +0530</lastBuildDate>
-    <generator>Jekyll v3.3.0</generator>
->>>>>>> Test commit
+    <link>http://www.scorelab.org/</link>
+    <atom:link href="http://www.scorelab.org/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Mon, 30 Jan 2017 10:25:22 +0530</pubDate>
+    <lastBuildDate>Mon, 30 Jan 2017 10:25:22 +0530</lastBuildDate>
+    <generator>Jekyll v3.2.1</generator>
     
       <item>
         <title>Gsoc2017: Implement bidirectional publish-subscribe behaviour</title>
         <description>
 </description>
-<<<<<<< HEAD
         <pubDate>Sat, 28 Jan 2017 00:00:00 +0530</pubDate>
-        <link>http://localhost:4000/gsoc2017/ImplementBiDirectionalPublishSubscribeBehavior</link>
-        <guid isPermaLink="true">http://localhost:4000/gsoc2017/ImplementBiDirectionalPublishSubscribeBehavior</guid>
-=======
-        <pubDate>Sat, 13 Aug 2016 00:00:00 +0530</pubDate>
-        <link>http://localhost:4000/reading-group/reading-group</link>
-        <guid isPermaLink="true">http://localhost:4000/reading-group/reading-group</guid>
->>>>>>> Test commit
+        <link>http://www.scorelab.org/gsoc2017/ImplementBiDirectionalPublishSubscribeBehavior</link>
+        <guid isPermaLink="true">http://www.scorelab.org/gsoc2017/ImplementBiDirectionalPublishSubscribeBehavior</guid>
         
         
         <category>gsoc2017</category>
@@ -38,15 +26,9 @@
         <title>Gsoc2017: Implement authentication for message broker and rest API for OpenIOE</title>
         <description>
 </description>
-<<<<<<< HEAD
         <pubDate>Sat, 28 Jan 2017 00:00:00 +0530</pubDate>
-        <link>http://localhost:4000/gsoc2017/ImplementAuthenticationForMessageBrokerAndRestAPIforOpenIOE</link>
-        <guid isPermaLink="true">http://localhost:4000/gsoc2017/ImplementAuthenticationForMessageBrokerAndRestAPIforOpenIOE</guid>
-=======
-        <pubDate>Wed, 01 Jun 2016 00:00:00 +0530</pubDate>
-        <link>http://localhost:4000/publications/SensorBasedBreakageDetectionForElectricFences</link>
-        <guid isPermaLink="true">http://localhost:4000/publications/SensorBasedBreakageDetectionForElectricFences</guid>
->>>>>>> Test commit
+        <link>http://www.scorelab.org/gsoc2017/ImplementAuthenticationForMessageBrokerAndRestAPIforOpenIOE</link>
+        <guid isPermaLink="true">http://www.scorelab.org/gsoc2017/ImplementAuthenticationForMessageBrokerAndRestAPIforOpenIOE</guid>
         
         
         <category>gsoc2017</category>
@@ -57,15 +39,9 @@
         <title>Gsoc2017: Developing Go library for interacting with many of the popular clouds</title>
         <description>
 </description>
-<<<<<<< HEAD
         <pubDate>Sat, 28 Jan 2017 00:00:00 +0530</pubDate>
-        <link>http://localhost:4000/gsoc2017/DevelopingGoLibraryForInteractingWithManyOtherPopularClouds</link>
-        <guid isPermaLink="true">http://localhost:4000/gsoc2017/DevelopingGoLibraryForInteractingWithManyOtherPopularClouds</guid>
-=======
-        <pubDate>Wed, 01 Jun 2016 00:00:00 +0530</pubDate>
-        <link>http://localhost:4000/publications/ListeningtotheGiants</link>
-        <guid isPermaLink="true">http://localhost:4000/publications/ListeningtotheGiants</guid>
->>>>>>> Test commit
+        <link>http://www.scorelab.org/gsoc2017/DevelopingGoLibraryForInteractingWithManyOtherPopularClouds</link>
+        <guid isPermaLink="true">http://www.scorelab.org/gsoc2017/DevelopingGoLibraryForInteractingWithManyOtherPopularClouds</guid>
         
         
         <category>gsoc2017</category>
@@ -76,15 +52,9 @@
         <title>Gsoc2017: Convert Androphsy to a Web Application</title>
         <description>
 </description>
-<<<<<<< HEAD
         <pubDate>Sat, 28 Jan 2017 00:00:00 +0530</pubDate>
-        <link>http://localhost:4000/gsoc2017/ConvertAndrophsyToAWebApplication</link>
-        <guid isPermaLink="true">http://localhost:4000/gsoc2017/ConvertAndrophsyToAWebApplication</guid>
-=======
-        <pubDate>Wed, 01 Jun 2016 00:00:00 +0530</pubDate>
-        <link>http://localhost:4000/publications/AQuadcopterControllertoMaintainRadioLinkQuality</link>
-        <guid isPermaLink="true">http://localhost:4000/publications/AQuadcopterControllertoMaintainRadioLinkQuality</guid>
->>>>>>> Test commit
+        <link>http://www.scorelab.org/gsoc2017/ConvertAndrophsyToAWebApplication</link>
+        <guid isPermaLink="true">http://www.scorelab.org/gsoc2017/ConvertAndrophsyToAWebApplication</guid>
         
         
         <category>gsoc2017</category>
@@ -95,15 +65,9 @@
         <title>Reading-group: Reading Group</title>
         <description>
 </description>
-<<<<<<< HEAD
         <pubDate>Sat, 13 Aug 2016 00:00:00 +0530</pubDate>
-        <link>http://localhost:4000/reading-group/reading-group</link>
-        <guid isPermaLink="true">http://localhost:4000/reading-group/reading-group</guid>
-=======
-        <pubDate>Thu, 10 Mar 2016 00:00:00 +0530</pubDate>
-        <link>http://localhost:4000/gsoc2016/End-to-End_Encryption_of_Android_Phone_Calls</link>
-        <guid isPermaLink="true">http://localhost:4000/gsoc2016/End-to-End_Encryption_of_Android_Phone_Calls</guid>
->>>>>>> Test commit
+        <link>http://www.scorelab.org/reading-group/reading-group</link>
+        <guid isPermaLink="true">http://www.scorelab.org/reading-group/reading-group</guid>
         
         
         <category>reading-group</category>
@@ -114,15 +78,9 @@
         <title>Publications: Sensor Based Breakage Detection For Electric Fences</title>
         <description>
 </description>
-<<<<<<< HEAD
         <pubDate>Wed, 01 Jun 2016 00:00:00 +0530</pubDate>
-        <link>http://localhost:4000/publications/SensorBasedBreakageDetectionForElectricFences</link>
-        <guid isPermaLink="true">http://localhost:4000/publications/SensorBasedBreakageDetectionForElectricFences</guid>
-=======
-        <pubDate>Thu, 10 Mar 2016 00:00:00 +0530</pubDate>
-        <link>http://localhost:4000/gsoc2016/DevelopBassa-BackendAndCompleteTheREST_API</link>
-        <guid isPermaLink="true">http://localhost:4000/gsoc2016/DevelopBassa-BackendAndCompleteTheREST_API</guid>
->>>>>>> Test commit
+        <link>http://www.scorelab.org/publications/SensorBasedBreakageDetectionForElectricFences</link>
+        <guid isPermaLink="true">http://www.scorelab.org/publications/SensorBasedBreakageDetectionForElectricFences</guid>
         
         
         <category>publications</category>
@@ -133,15 +91,9 @@
         <title>Publications: Listening to the Giants: Using Elephant Infra-Sound to Solve the Human-Elephant Conflict</title>
         <description>
 </description>
-<<<<<<< HEAD
         <pubDate>Wed, 01 Jun 2016 00:00:00 +0530</pubDate>
-        <link>http://localhost:4000/publications/ListeningtotheGiants</link>
-        <guid isPermaLink="true">http://localhost:4000/publications/ListeningtotheGiants</guid>
-=======
-        <pubDate>Thu, 10 Mar 2016 00:00:00 +0530</pubDate>
-        <link>http://localhost:4000/gsoc2016/DevelopANewFrontEndBassa</link>
-        <guid isPermaLink="true">http://localhost:4000/gsoc2016/DevelopANewFrontEndBassa</guid>
->>>>>>> Test commit
+        <link>http://www.scorelab.org/publications/ListeningtotheGiants</link>
+        <guid isPermaLink="true">http://www.scorelab.org/publications/ListeningtotheGiants</guid>
         
         
         <category>publications</category>
@@ -152,15 +104,9 @@
         <title>Publications: A Quadcopter Controller to Maintain Radio Link Quality</title>
         <description>
 </description>
-<<<<<<< HEAD
         <pubDate>Wed, 01 Jun 2016 00:00:00 +0530</pubDate>
-        <link>http://localhost:4000/publications/AQuadcopterControllertoMaintainRadioLinkQuality</link>
-        <guid isPermaLink="true">http://localhost:4000/publications/AQuadcopterControllertoMaintainRadioLinkQuality</guid>
-=======
-        <pubDate>Thu, 10 Mar 2016 00:00:00 +0530</pubDate>
-        <link>http://localhost:4000/gsoc2016/Android_app_for_tracker</link>
-        <guid isPermaLink="true">http://localhost:4000/gsoc2016/Android_app_for_tracker</guid>
->>>>>>> Test commit
+        <link>http://www.scorelab.org/publications/AQuadcopterControllertoMaintainRadioLinkQuality</link>
+        <guid isPermaLink="true">http://www.scorelab.org/publications/AQuadcopterControllertoMaintainRadioLinkQuality</guid>
         
         
         <category>publications</category>
@@ -171,15 +117,9 @@
         <title>Gsoc2016: End-to-End Encryption of Android Phone Calls</title>
         <description>
 </description>
-<<<<<<< HEAD
         <pubDate>Thu, 10 Mar 2016 00:00:00 +0530</pubDate>
-        <link>http://localhost:4000/gsoc2016/End-to-End_Encryption_of_Android_Phone_Calls</link>
-        <guid isPermaLink="true">http://localhost:4000/gsoc2016/End-to-End_Encryption_of_Android_Phone_Calls</guid>
-=======
-        <pubDate>Mon, 07 Mar 2016 00:00:00 +0530</pubDate>
-        <link>http://localhost:4000/gsoc2016/UsingJVMlanguage_in_IoT_platforms</link>
-        <guid isPermaLink="true">http://localhost:4000/gsoc2016/UsingJVMlanguage_in_IoT_platforms</guid>
->>>>>>> Test commit
+        <link>http://www.scorelab.org/gsoc2016/End-to-End_Encryption_of_Android_Phone_Calls</link>
+        <guid isPermaLink="true">http://www.scorelab.org/gsoc2016/End-to-End_Encryption_of_Android_Phone_Calls</guid>
         
         
         <category>gsoc2016</category>
@@ -190,15 +130,9 @@
         <title>Gsoc2016: Develop Bassa backend and Complete the REST API</title>
         <description>
 </description>
-<<<<<<< HEAD
         <pubDate>Thu, 10 Mar 2016 00:00:00 +0530</pubDate>
-        <link>http://localhost:4000/gsoc2016/DevelopBassa-BackendAndCompleteTheREST_API</link>
-        <guid isPermaLink="true">http://localhost:4000/gsoc2016/DevelopBassa-BackendAndCompleteTheREST_API</guid>
-=======
-        <pubDate>Mon, 07 Mar 2016 00:00:00 +0530</pubDate>
-        <link>http://localhost:4000/gsoc2016/RewritingOpenDFfrontend</link>
-        <guid isPermaLink="true">http://localhost:4000/gsoc2016/RewritingOpenDFfrontend</guid>
->>>>>>> Test commit
+        <link>http://www.scorelab.org/gsoc2016/DevelopBassa-BackendAndCompleteTheREST_API</link>
+        <guid isPermaLink="true">http://www.scorelab.org/gsoc2016/DevelopBassa-BackendAndCompleteTheREST_API</guid>
         
         
         <category>gsoc2016</category>
