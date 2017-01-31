@@ -5,36 +5,38 @@
     <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</description>
     <link>http://www.scorelab.org/</link>
     <atom:link href="http://www.scorelab.org/feed.xml" rel="self" type="application/rss+xml" />
+
     <pubDate>Tue, 31 Jan 2017 20:39:00 +0530</pubDate>
     <lastBuildDate>Tue, 31 Jan 2017 20:39:00 +0530</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
-    
+
+
       <item>
-        <title>Gsoc2017: Implement bidirectional publish-subscribe behaviour</title>
+        <title>Gsoc2017: OpenIoE - Implement bidirectional publish-subscribe behaviour</title>
         <description>
 </description>
         <pubDate>Sat, 28 Jan 2017 00:00:00 +0530</pubDate>
         <link>http://www.scorelab.org/gsoc2017/ImplementBiDirectionalPublishSubscribeBehavior</link>
         <guid isPermaLink="true">http://www.scorelab.org/gsoc2017/ImplementBiDirectionalPublishSubscribeBehavior</guid>
-        
-        
+
+
         <category>gsoc2017</category>
-        
+
       </item>
-    
+
       <item>
-        <title>Gsoc2017: Implement authentication for message broker and rest API for OpenIOE</title>
+        <title>Gsoc2017: OpenIoE - Implement authentication for message broker and rest API for OpenIOE</title>
         <description>
 </description>
         <pubDate>Sat, 28 Jan 2017 00:00:00 +0530</pubDate>
         <link>http://www.scorelab.org/gsoc2017/ImplementAuthenticationForMessageBrokerAndRestAPIforOpenIOE</link>
         <guid isPermaLink="true">http://www.scorelab.org/gsoc2017/ImplementAuthenticationForMessageBrokerAndRestAPIforOpenIOE</guid>
-        
-        
+
+
         <category>gsoc2017</category>
-        
+
       </item>
-    
+
       <item>
         <title>Gsoc2017: Developing Go library for interacting with many of the popular clouds</title>
         <description>
@@ -42,12 +44,12 @@
         <pubDate>Sat, 28 Jan 2017 00:00:00 +0530</pubDate>
         <link>http://www.scorelab.org/gsoc2017/DevelopingGoLibraryForInteractingWithManyOtherPopularClouds</link>
         <guid isPermaLink="true">http://www.scorelab.org/gsoc2017/DevelopingGoLibraryForInteractingWithManyOtherPopularClouds</guid>
-        
-        
+
+
         <category>gsoc2017</category>
-        
+
       </item>
-    
+
       <item>
         <title>Gsoc2017: Convert Androphsy to a Web Application</title>
         <description>
@@ -55,12 +57,12 @@
         <pubDate>Sat, 28 Jan 2017 00:00:00 +0530</pubDate>
         <link>http://www.scorelab.org/gsoc2017/ConvertAndrophsyToAWebApplication</link>
         <guid isPermaLink="true">http://www.scorelab.org/gsoc2017/ConvertAndrophsyToAWebApplication</guid>
-        
-        
+
+
         <category>gsoc2017</category>
-        
+
       </item>
-    
+
       <item>
         <title>Reading-group: Reading Group</title>
         <description>
@@ -68,12 +70,12 @@
         <pubDate>Sat, 13 Aug 2016 00:00:00 +0530</pubDate>
         <link>http://www.scorelab.org/reading-group/reading-group</link>
         <guid isPermaLink="true">http://www.scorelab.org/reading-group/reading-group</guid>
-        
-        
+
+
         <category>reading-group</category>
-        
+
       </item>
-    
+
       <item>
         <title>Publications: Sensor Based Breakage Detection For Electric Fences</title>
         <description>
@@ -81,12 +83,12 @@
         <pubDate>Wed, 01 Jun 2016 00:00:00 +0530</pubDate>
         <link>http://www.scorelab.org/publications/SensorBasedBreakageDetectionForElectricFences</link>
         <guid isPermaLink="true">http://www.scorelab.org/publications/SensorBasedBreakageDetectionForElectricFences</guid>
-        
-        
+
+
         <category>publications</category>
-        
+
       </item>
-    
+
       <item>
         <title>Publications: Listening to the Giants: Using Elephant Infra-Sound to Solve the Human-Elephant Conflict</title>
         <description>
@@ -94,12 +96,12 @@
         <pubDate>Wed, 01 Jun 2016 00:00:00 +0530</pubDate>
         <link>http://www.scorelab.org/publications/ListeningtotheGiants</link>
         <guid isPermaLink="true">http://www.scorelab.org/publications/ListeningtotheGiants</guid>
-        
-        
+
+
         <category>publications</category>
-        
+
       </item>
-    
+
       <item>
         <title>Publications: A Quadcopter Controller to Maintain Radio Link Quality</title>
         <description>
@@ -107,12 +109,12 @@
         <pubDate>Wed, 01 Jun 2016 00:00:00 +0530</pubDate>
         <link>http://www.scorelab.org/publications/AQuadcopterControllertoMaintainRadioLinkQuality</link>
         <guid isPermaLink="true">http://www.scorelab.org/publications/AQuadcopterControllertoMaintainRadioLinkQuality</guid>
-        
-        
+
+
         <category>publications</category>
-        
+
       </item>
-    
+
       <item>
         <title>Gsoc2016: End-to-End Encryption of Android Phone Calls</title>
         <description>
@@ -120,12 +122,12 @@
         <pubDate>Thu, 10 Mar 2016 00:00:00 +0530</pubDate>
         <link>http://www.scorelab.org/gsoc2016/End-to-End_Encryption_of_Android_Phone_Calls</link>
         <guid isPermaLink="true">http://www.scorelab.org/gsoc2016/End-to-End_Encryption_of_Android_Phone_Calls</guid>
-        
-        
+
+
         <category>gsoc2016</category>
-        
+
       </item>
-    
+
       <item>
         <title>Gsoc2016: Develop Bassa backend and Complete the REST API</title>
         <description>
@@ -133,11 +135,11 @@
         <pubDate>Thu, 10 Mar 2016 00:00:00 +0530</pubDate>
         <link>http://www.scorelab.org/gsoc2016/DevelopBassa-BackendAndCompleteTheREST_API</link>
         <guid isPermaLink="true">http://www.scorelab.org/gsoc2016/DevelopBassa-BackendAndCompleteTheREST_API</guid>
-        
-        
+
+
         <category>gsoc2016</category>
-        
+
       </item>
-    
+
   </channel>
 </rss>

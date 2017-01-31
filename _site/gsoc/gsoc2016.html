@@ -97,13 +97,13 @@
 		<section>
 			<section>
 				<p>
-					Welcome to the SCoRe Lab Google Summer of Code (GSoC) 2016 project ideas page. We are a dynamic and enthusiastic nonprofit research group pioneering in Internet of Things (IoT), Embedded Systems, Computer Security and 'Wireless Adhoc and Sensor Networks' and is one of the best groups in South Asia. We are based in the University of Colombo School of Computing, Sri Lanka. This is the first time that we are participating in the GSoC, we will use this page to develop possible project ideas that have on the above mentioned areas. Please note that anyone who is interested can participate in this process. You do not have to be a GSoC student or mentor to suggest possible project ideas. You can also talk to us about possible project ideas and we are happy to improve or heip you with them. Please keep in mind that projects need to be realistically something that is able to be functionally completed by a student working full time for about eight weeks. Thanks!
+					Welcome to the SCoRe Lab Google Summer of Code (GSoC) 2017 project ideas page. We are a dynamic and enthusiastic nonprofit research group pioneering in Internet of Things (IoT), Embedded Systems, Computer Security and 'Wireless Adhoc and Sensor Networks' and is one of the best groups in South Asia. We are based in the University of Colombo School of Computing, Sri Lanka. This is the first time that we are participating in the GSoC, we will use this page to develop possible project ideas that have on the above mentioned areas. Please note that anyone who is interested can participate in this process. You do not have to be a GSoC student or mentor to suggest possible project ideas. You can also talk to us about possible project ideas and we are happy to improve or heip you with them. Please keep in mind that projects need to be realistically something that is able to be functionally completed by a student working full time for about eight weeks. Thanks!
 				</p>
 				<p>
 					<b>Mailing list: </b><a href="http://groups.google.com/d/forum/score-community" target="_blank">score-community@googlegroups.com</a>
-				</P>
+				</p>
 				<p>
-					<b>IRC Channel:</b> #scorelab
+					<b>IRC Channel:</b> <a href="https://gitter.im/scorelab/scorelab" target="_blank">https://gitter.im/scorelab/scorelab</a>
 				</p>
 				<p>
 					<b><a href="https://goo.gl/KXcqAL" target="_blank">Suggested Proposal Template</a></b>
@@ -147,8 +147,8 @@
 			<section>
 				<ul style="padding-left: 25px;" type="circle">
 					<li>
-						<a href="#ftmfo">
-							Implement bidirectional publish-subscribe behaviour
+						<a href="#openioepubsub">
+							OpenIoE - Implement bidirectional publish-subscribe behaviour
 						</a>
 					</li>
 				</ul>
@@ -158,8 +158,8 @@
 			<section>
 				<ul style="padding-left: 25px;" type="circle">
 					<li>
-						<a href="#ftmfo">
-							Implement authentication for message broker and rest API for OpenIOE
+						<a href="#openioeapi">
+							OpenIoE - Implement authentication for message broker and rest API for OpenIOE
 						</a>
 					</li>
 				</ul>
@@ -180,7 +180,7 @@
 			<section>
 				<ul style="padding-left: 25px;" type="circle">
 					<li>
-						<a href="#ftmfo">
+						<a href="#catawa">
 							Convert Androphsy to a Web Application
 						</a>
 					</li>
@@ -196,10 +196,12 @@
 
 			<ul style="padding-left: 25px;" type="circle">
 				<li>
-				<div id="ftmfo">
-					<h2>Implement bidirectional publish-subscribe behaviour</h2>
+				<div id="openioepubsub">
+					<h2>OpenIoE - Implement bidirectional publish-subscribe behaviour</h2>
 					<p>OpenIOE enables you to subscribe to data streams and get data from the sensors and store them. But it cannot act as a publisher, therefore a user cannot send control messages to sensors. (Eg. Changing the thermostat value).</p>
-					<b>Required Knowledge: </b>
+					<b>Required Knowledge: </b>Spring Boot, ActiveMQ Artemis, MQTT, AMQP and Cassandra
+                    <br/>
+                    <b>Github: </b><a href="https://github.com/scorelab/OpenIoE" target="_blank">https://github.com/scorelab/OpenIoE</a>
 					<br/>
 					<b>Possible Mentors: </b>TBA
 				</div>
@@ -212,10 +214,12 @@
 
 			<ul style="padding-left: 25px;" type="circle">
 				<li>
-				<div id="ftmfo">
-					<h2>Implement authentication for message broker and rest API for OpenIOE</h2>
+				<div id="openioeapi">
+					<h2>OpenIoE - Implement authentication for message broker and rest API for OpenIOE</h2>
 					<p>Currently, OpenIOE does not implement any security mechanisms for publishing or subscribing to any registered sensors in the backend.In order to support more clients, MQTT authentication and GUID based URL routing can be used.</p>
-					<b>Required Knowledge: </b>
+					<b>Required Knowledge: </b>Spring Boot, ActiveMQ Artemis, MQTT, AMQP and Cassandra
+                    <br/>
+                    <b>Github: </b><a href="https://github.com/scorelab/OpenIoE" target="_blank">https://github.com/scorelab/OpenIoE</a>
 					<br/>
 					<b>Possible Mentors: </b>TBA
 				</div>
@@ -232,6 +236,8 @@
 					<h2>Developing Go library for interacting with many of the popular clouds</h2>
 					<p>Developing golan library for interacting with many of the popular cloud service providers using a unified API. This Go library can manage following resources; <b> Resources Types </b> <ul><li> Cloud Servers </li><li> Cloud Storages </li><li> Load Balancers </li></ul></p>
 					<b>Required Knowledge: </b>Go, Google Cloud, AWS
+                    <br/>
+                    <b>Github: </b><a href="" target="_blank"></a>
 					<br/>
 					<b>Possible Mentors: </b>Charitha Elvitgala (charitha@scorelab.org)
 				</div>
@@ -244,10 +250,12 @@
 
 			<ul style="padding-left: 25px;" type="circle">
 				<li>
-				<div id="ftmfo">
+				<div id="catawa">
 					<h2>Convert Androphsy to a Web Application</h2>
 					<p>ANDROPHSY is an opensource forensic tool for Android smartphones that helps digital forensic investigator throughout the life cycle of digital forensic investigation. Services provided by ANDROPHSY includes, <ul><li>Digital forensic case and evidence management</li><li>Raw data acquisition – physical acquisition and logical – file system level acquisition</li><li>Meaningful evidence extraction and analysis support</li><li>Evidence presentation</li></ul><br> At the moment, Androphsy operates as a Java Swing application. So now we want to convert it to a web application that works similar to OpenDF.</p>
 					<b>Required Knowledge: </b>AngularJs, Java, JavaEE, MySQL, Bootstrap
+                    <br/>
+                    <b>Github: </b><a href="https://github.com/scorelab/ANDROPHSY" target="_blank">https://github.com/scorelab/ANDROPHSY</a>
 					<br/>
 					<b>Possible Mentors: </b>Charitha Elvitgala (charitha@scorelab.org), Rumesh Hapuarachchi (rehrumesh@gmail.com)
 				</div>
