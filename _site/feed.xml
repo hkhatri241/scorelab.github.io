@@ -5,12 +5,10 @@
     <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</description>
     <link>http://www.scorelab.org/</link>
     <atom:link href="http://www.scorelab.org/feed.xml" rel="self" type="application/rss+xml" />
-
-    <pubDate>Tue, 31 Jan 2017 20:39:00 +0530</pubDate>
-    <lastBuildDate>Tue, 31 Jan 2017 20:39:00 +0530</lastBuildDate>
-    <generator>Jekyll v3.2.1</generator>
-
-
+    <pubDate>Tue, 21 Mar 2017 11:54:01 +0530</pubDate>
+    <lastBuildDate>Tue, 21 Mar 2017 11:54:01 +0530</lastBuildDate>
+    <generator>Jekyll v3.1.2</generator>
+    
       <item>
         <title>Gsoc2017: OpenIoE - Implement bidirectional publish-subscribe behaviour</title>
         <description>
@@ -18,12 +16,12 @@
         <pubDate>Sat, 28 Jan 2017 00:00:00 +0530</pubDate>
         <link>http://www.scorelab.org/gsoc2017/ImplementBiDirectionalPublishSubscribeBehavior</link>
         <guid isPermaLink="true">http://www.scorelab.org/gsoc2017/ImplementBiDirectionalPublishSubscribeBehavior</guid>
-
-
+        
+        
         <category>gsoc2017</category>
-
+        
       </item>
-
+    
       <item>
         <title>Gsoc2017: OpenIoE - Implement authentication for message broker and rest API for OpenIOE</title>
         <description>
@@ -31,25 +29,51 @@
         <pubDate>Sat, 28 Jan 2017 00:00:00 +0530</pubDate>
         <link>http://www.scorelab.org/gsoc2017/ImplementAuthenticationForMessageBrokerAndRestAPIforOpenIOE</link>
         <guid isPermaLink="true">http://www.scorelab.org/gsoc2017/ImplementAuthenticationForMessageBrokerAndRestAPIforOpenIOE</guid>
-
-
+        
+        
         <category>gsoc2017</category>
-
+        
       </item>
-
+    
       <item>
-        <title>Gsoc2017: Developing Go library for interacting with many of the popular clouds</title>
+        <title>Gsoc2017: Implement rustcloud compute package for Google compute engine and AWS EC2</title>
         <description>
 </description>
         <pubDate>Sat, 28 Jan 2017 00:00:00 +0530</pubDate>
-        <link>http://www.scorelab.org/gsoc2017/DevelopingGoLibraryForInteractingWithManyOtherPopularClouds</link>
-        <guid isPermaLink="true">http://www.scorelab.org/gsoc2017/DevelopingGoLibraryForInteractingWithManyOtherPopularClouds</guid>
-
-
+        <link>http://www.scorelab.org/gsoc2017/DevelopingRustLibraryCompute</link>
+        <guid isPermaLink="true">http://www.scorelab.org/gsoc2017/DevelopingRustLibraryCompute</guid>
+        
+        
         <category>gsoc2017</category>
-
+        
       </item>
-
+    
+      <item>
+        <title>Gsoc2017: Implement nodecloud compute package for Google compute engine and AWS EC2</title>
+        <description>
+</description>
+        <pubDate>Sat, 28 Jan 2017 00:00:00 +0530</pubDate>
+        <link>http://www.scorelab.org/gsoc2017/DevelopingNodeLibraryCompute</link>
+        <guid isPermaLink="true">http://www.scorelab.org/gsoc2017/DevelopingNodeLibraryCompute</guid>
+        
+        
+        <category>gsoc2017</category>
+        
+      </item>
+    
+      <item>
+        <title>Gsoc2017: Implement gocloud compute package for Google compute engine and AWS EC2</title>
+        <description>
+</description>
+        <pubDate>Sat, 28 Jan 2017 00:00:00 +0530</pubDate>
+        <link>http://www.scorelab.org/gsoc2017/DevelopingGoLibraryCompute</link>
+        <guid isPermaLink="true">http://www.scorelab.org/gsoc2017/DevelopingGoLibraryCompute</guid>
+        
+        
+        <category>gsoc2017</category>
+        
+      </item>
+    
       <item>
         <title>Gsoc2017: Convert Androphsy to a Web Application</title>
         <description>
@@ -57,89 +81,63 @@
         <pubDate>Sat, 28 Jan 2017 00:00:00 +0530</pubDate>
         <link>http://www.scorelab.org/gsoc2017/ConvertAndrophsyToAWebApplication</link>
         <guid isPermaLink="true">http://www.scorelab.org/gsoc2017/ConvertAndrophsyToAWebApplication</guid>
-
-
+        
+        
         <category>gsoc2017</category>
-
+        
       </item>
-
+    
       <item>
-        <title>Reading-group: Reading Group</title>
+        <title>Gsoc2017: OpenADS - BellyGraph - Implement deep graph kernel to solve subgraph isomorphism</title>
         <description>
 </description>
-        <pubDate>Sat, 13 Aug 2016 00:00:00 +0530</pubDate>
-        <link>http://www.scorelab.org/reading-group/reading-group</link>
-        <guid isPermaLink="true">http://www.scorelab.org/reading-group/reading-group</guid>
-
-
-        <category>reading-group</category>
-
+        <pubDate>Fri, 27 Jan 2017 00:00:00 +0530</pubDate>
+        <link>http://www.scorelab.org/gsoc2017/OpenADSBellyGraphImplementDeepGraphKernelToSolveSubgraphIsomorphism</link>
+        <guid isPermaLink="true">http://www.scorelab.org/gsoc2017/OpenADSBellyGraphImplementDeepGraphKernelToSolveSubgraphIsomorphism</guid>
+        
+        
+        <category>gsoc2017</category>
+        
       </item>
-
+    
       <item>
-        <title>Publications: Sensor Based Breakage Detection For Electric Fences</title>
+        <title>Gsoc2017: OpenADS - BellyGraph - Implement a scalable data-structure to model evolving graphs</title>
         <description>
 </description>
-        <pubDate>Wed, 01 Jun 2016 00:00:00 +0530</pubDate>
-        <link>http://www.scorelab.org/publications/SensorBasedBreakageDetectionForElectricFences</link>
-        <guid isPermaLink="true">http://www.scorelab.org/publications/SensorBasedBreakageDetectionForElectricFences</guid>
-
-
-        <category>publications</category>
-
+        <pubDate>Fri, 27 Jan 2017 00:00:00 +0530</pubDate>
+        <link>http://www.scorelab.org/gsoc2017/OpenADSBellyGraphImplementAScalableDataStructureToModelEvolvingGraphs</link>
+        <guid isPermaLink="true">http://www.scorelab.org/gsoc2017/OpenADSBellyGraphImplementAScalableDataStructureToModelEvolvingGraphs</guid>
+        
+        
+        <category>gsoc2017</category>
+        
       </item>
-
+    
       <item>
-        <title>Publications: Listening to the Giants: Using Elephant Infra-Sound to Solve the Human-Elephant Conflict</title>
+        <title>Gsoc2017: Stackle - Web communication portal for Open Source Organizations</title>
         <description>
 </description>
-        <pubDate>Wed, 01 Jun 2016 00:00:00 +0530</pubDate>
-        <link>http://www.scorelab.org/publications/ListeningtotheGiants</link>
-        <guid isPermaLink="true">http://www.scorelab.org/publications/ListeningtotheGiants</guid>
-
-
-        <category>publications</category>
-
+        <pubDate>Thu, 26 Jan 2017 00:00:00 +0530</pubDate>
+        <link>http://www.scorelab.org/gsoc2017/Stackle-WebCommunicationPortalForOpenSourceOrganizations</link>
+        <guid isPermaLink="true">http://www.scorelab.org/gsoc2017/Stackle-WebCommunicationPortalForOpenSourceOrganizations</guid>
+        
+        
+        <category>gsoc2017</category>
+        
       </item>
-
+    
       <item>
-        <title>Publications: A Quadcopter Controller to Maintain Radio Link Quality</title>
+        <title>Gsoc2017: DroneSym - Platform to Handle and Track Drone Fleets in Real Time.</title>
         <description>
 </description>
-        <pubDate>Wed, 01 Jun 2016 00:00:00 +0530</pubDate>
-        <link>http://www.scorelab.org/publications/AQuadcopterControllertoMaintainRadioLinkQuality</link>
-        <guid isPermaLink="true">http://www.scorelab.org/publications/AQuadcopterControllertoMaintainRadioLinkQuality</guid>
-
-
-        <category>publications</category>
-
+        <pubDate>Thu, 26 Jan 2017 00:00:00 +0530</pubDate>
+        <link>http://www.scorelab.org/gsoc2017/DroneSymPlatformToHandleAndTrackDroneFleetsInRealTime</link>
+        <guid isPermaLink="true">http://www.scorelab.org/gsoc2017/DroneSymPlatformToHandleAndTrackDroneFleetsInRealTime</guid>
+        
+        
+        <category>gsoc2017</category>
+        
       </item>
-
-      <item>
-        <title>Gsoc2016: End-to-End Encryption of Android Phone Calls</title>
-        <description>
-</description>
-        <pubDate>Thu, 10 Mar 2016 00:00:00 +0530</pubDate>
-        <link>http://www.scorelab.org/gsoc2016/End-to-End_Encryption_of_Android_Phone_Calls</link>
-        <guid isPermaLink="true">http://www.scorelab.org/gsoc2016/End-to-End_Encryption_of_Android_Phone_Calls</guid>
-
-
-        <category>gsoc2016</category>
-
-      </item>
-
-      <item>
-        <title>Gsoc2016: Develop Bassa backend and Complete the REST API</title>
-        <description>
-</description>
-        <pubDate>Thu, 10 Mar 2016 00:00:00 +0530</pubDate>
-        <link>http://www.scorelab.org/gsoc2016/DevelopBassa-BackendAndCompleteTheREST_API</link>
-        <guid isPermaLink="true">http://www.scorelab.org/gsoc2016/DevelopBassa-BackendAndCompleteTheREST_API</guid>
-
-
-        <category>gsoc2016</category>
-
-      </item>
-
+    
   </channel>
 </rss>

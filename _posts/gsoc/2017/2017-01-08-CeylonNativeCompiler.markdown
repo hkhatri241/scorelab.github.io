@@ -2,9 +2,9 @@
 layout: gsoc
 categories: gsoc2017
 divid: ceylon-native
-title:  Ceylon - Native compiler
-description: <p>Ceylon-native is an initiative project to produce a free and open source compiler to compile <a href="https://ceylon-lang.org/"> Ceylon </a> to native code. Usually Ceylon runs on Java Virtual Machine and the default Ceylon compiler compiles the Ceylon codes into byte code or Javascript. In this project we use the ability of importing Ceylon modules to Java and compile Java to native code using GNU compiler for Java (<a href="https://gcc.gnu.org/onlinedocs/gcc-3.4.6/gcj/" > GCJ </a>), using a dependency  handling mechanism. Implementing the CLI tool for the compiler wrapping up all the dependency handling mechanisms used by Ceylon compiler is the main task of this project.</p>
-githuburl: https://github.com/scorelab/ceylon-native
-requiredknowledge:  Ceylon, C, Java, GCJ
-possiblementors: Tharindu Ranathunga(tharindu@scorelab.org)
+title:  Kute - Implement the feature for private vehicles that are travelling to a known destination on a regular basis
+description: <p>When considering private vehicles, there are many vehicles in Sri Lanka that travel regularly by filling on a few seats or only the driver him/her self. The remaining space can be used by people travelling to same destination on same route.  With this feature, the owner of the vehicle can update how many seats are available for passengers(friends) and this information along with the current location will be sent to passengers(friends). These passengers called friends are people who travel in the same road as the owner, on a regular basis. Friends can reserve their seats by requesting when they see available options around the covered geographic area.</p><p>Implementation- This has to be implemented for two friend groups:</p><ul><li>Among a friend list registered in the app database</li><li>Facebook Nearby Friends</li></ul><p>The user should be able to choose how he or she would choose friend groups.</p><p>The features include:</p><ul><li>Send friend request<li>Accept friend request</li><li>Create new route</li><li>Save daily routes (for hosters)</li><li>Share route with number of seats, route (from-to)</li><li>Friends can response to shared route to get the drive</li><li>Display advertisements in the app.</li></ul>
+githuburl: https://github.com/scorelab/kute.git
+requiredknowledge:  Android, Firebase
+possiblementors: Dilushi Piumwardane, Nithila Vithanage
 ---
